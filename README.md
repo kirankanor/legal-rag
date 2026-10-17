@@ -1,3 +1,5 @@
+# legal-rag
+
 business problem: want RAG for legal use.
 
 there are two documents on citizenship:
@@ -15,4 +17,4 @@ dependency management , folder structure , do not focus on that now. that is not
 
 first build walking skeleton.
 basic se basic , simplest chize use karke banao.
-# legal-rag
+
