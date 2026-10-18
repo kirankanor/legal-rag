@@ -1,5 +1,19 @@
 """Ingestion utilities for legal RAG."""
 
-from .ingest import build_vector_index, chunk_documents, load_markdown_documents
+from .chunkers import (
+    advanced_chunking_and_serialization,
+    hierarchical_chunking,
+    hybrid_chunking,
+    line_based_token_chunking,
+    page_based_chunking,
+    trivial_chunking,
+)
 
-__all__ = ["build_vector_index", "chunk_documents", "load_markdown_documents"]
+__all__ = [
+    "advanced_chunking_and_serialization",
+    "hierarchical_chunking",
+    "hybrid_chunking",
+    "line_based_token_chunking",
+    "page_based_chunking",
+    "trivial_chunking",
+]
