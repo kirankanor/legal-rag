@@ -1,0 +1,1038 @@
+[
+  {
+    "index": 0,
+    "fingerprint": "8400abad790f0706bd5b0c97d372f12ab374be04c074c1196db8ad32e7430648",
+    "input": "How do Citizenship Act Section 10 and Constitution Articles 5-1:0 interact in the Allahabad High Court's 2020 ruling on Nageshwar Mishra v. Union of India?",
+    "family": "single",
+    "question_quality": {
+      "score": 0.0,
+      "reason": "The question lacks specific context about the ruling's details and requires external knowledge beyond the question's text."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "The Actual Output correctly addresses the Input question by referencing the Allahabad High Court's 2020 ruling in Nageshwar Mishra v. Union of India, specifically mentioning Citizenship Act Section 10 and Constitution Articles 5-11 as per the Context. It accurately states that the ruling interpreted these provisions to align citizenship acquisition with fundamental rights and constitutional principles. The Context confirms the case details and key provisions, and there are no unsupported claims or contradictions."
+    }
+  },
+  {
+    "index": 1,
+    "fingerprint": "a0096436e54fb53a2238ef14efb25c27f51eed5511c3a3b65f2062c18acb7db8",
+    "input": "Which constitutional articles and Citizenship Act sections were cited in the Allahabad High Court's 2020 decision in Nageshwar Mishra v. Union of India regarding citizenship rights?",
+    "family": "single",
+    "question_quality": {
+      "score": 1.0,
+      "reason": "The question asks for specific constitutional articles and Citizenship Act sections cited in a particular court case, which is a well-defined objective. All necessary context (case name, court, year) is provided within the question. The question can be answered using only the information in the question without external knowledge. The language is precise and avoids vague interpretations."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "Input question asks for constitutional articles and Citizenship Act sections cited in Allahabad High Court's 2020 decision in Nageshwar Mishra v. Union of India. Actual Output states 'Constitution Articles 5-11 and Citizenship Act Section 10', which matches Context's key provisions exactly."
+    }
+  },
+  {
+    "index": 2,
+    "fingerprint": "1a9f4842e2a831c92d4d3933053a7d8515c3534f9c78462bc596669554ab7f3a",
+    "input": "How does the Supreme Court's ruling on citizenship revocation under Section 8(2) affect statutory residency requirements, and what are the key implications for individuals under this provision?",
+    "family": "single",
+    "question_quality": {
+      "score": 0.3,
+      "reason": "The question asks about the Supreme Court's ruling on citizenship revocation under Section 8(2) and its effects on statutory residency requirements, but it requires external knowledge about the specific ruling and legal context not provided in the question itself."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "The Actual Output accurately addresses the Input question by explaining the Supreme Court's ruling on citizenship revocation under Section 8(2), noting the twelve-month ordinary-residence requirement, and the Central Government's statutory relaxation power, all supported by the Context. There are no unsupported claims or contradictions with the Context."
+    }
+  },
+  {
+    "index": 3,
+    "fingerprint": "5f37c7ee10de3c7fed6478271795dbe3fb8c737ff4f07b1c9706a4e0edbf6d15",
+    "input": "Does the judgment permit Section 5(1)(f) applications with the twelve-month residence requirement under Central Government relaxation?",
+    "family": "single",
+    "question_quality": {
+      "score": 1.0,
+      "reason": "The question is specific to legal application criteria and provides all necessary context within the question itself without requiring external knowledge."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "The Actual Output correctly addresses the Input question using Context that explicitly states the judgment permits Section 5(1)(f) applications with the twelve-month residence requirement under Central Government relaxation. No unsupported claims or contradictions were found."
+    }
+  },
+  {
+    "index": 4,
+    "fingerprint": "4f0da327ec3982e3df96e1d49c9f7322d5c7008eb440b48d52e2596725adb748",
+    "input": "How are the cases grouped by applicant problems rather than court or year to address factual issues, statutory provisions, court decisions, and practical applications?",
+    "family": "single",
+    "question_quality": {
+      "score": 0.0,
+      "reason": "The question lacks clear context and objectives, requiring external knowledge about legal cases and court procedures to answer."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "The Actual Output correctly addresses the Input question by grouping cases by applicant problems to identify statutory provisions, court decisions, and practical applications, as stated in the Context: 'organized around applicant problems rather than merely by court or year' and 'what was the factual problem, what statutory provision mattered, what did the court decide, and how should an applicant use the decision'."
+    }
+  },
+  {
+    "index": 5,
+    "fingerprint": "52da601bd1c3a14ae89cec12a5219a1b308166b6ef41dacbdfd1aa60de287869",
+    "input": "What specific factual problems, statutory provisions, and court decisions should an applicant evaluate to ensure their decision-making is accurate and avoids overgeneralization?",
+    "family": "single",
+    "question_quality": {
+      "score": 0.0,
+      "reason": "The question asks for specific factual problems, statutory provisions, and court decisions without providing context or constraints, so it requires external knowledge to answer accurately."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "The Actual Output addresses the Input question by referencing the 'case selection principle' from Context, which explicitly outlines the factual problem, statutory provision, and court decision needed. All claims are directly supported by Context without contradictions or external knowledge."
+    }
+  },
+  {
+    "index": 6,
+    "fingerprint": "e8493a55007096aa4bbdcd17fc75ac70a0e8a1c7b96a9f50ef7f0b20abcb9951",
+    "input": "If a legal document's primary source is listed as Indian Kanoon, how would this affect the authority and applicability of the document across different jurisdictions?",
+    "family": "single",
+    "question_quality": {
+      "score": 0.0,
+      "reason": "The question refers to 'Indian Kanoon' which is an external term not defined in the question, requiring external knowledge to understand its nature and jurisdictional implications."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "The Actual Output correctly addresses the Input question by stating that Indian Kanoon is confined to India's legal system and does not extend to other jurisdictions, which aligns with the Context that links to Indian legal documents. No unsupported claims were made, and there are no contradictions with the Context."
+    }
+  },
+  {
+    "index": 7,
+    "fingerprint": "c83a2aa0ae554e6b5dd088693d72751e40da5cc6189bba00933065443681b2ca",
+    "input": "Where can I find the legal document from Indian Kanoon with URL https://indiankanoon.org/doc/1498751:120/ in the provided context?",
+    "family": "single",
+    "question_quality": {
+      "score": 1.0,
+      "reason": "The question asks for a specific legal document URL from Indian Kanoon, which is clearly defined and all necessary context is provided within the question itself. The question does not require external knowledge or unstated assumptions."
+    },
+    "answer_grounding": {
+      "score": 0.3,
+      "reason": "The Input asks for the URL https://indiankanoon.org/doc/1498751:120/, but the Actual Output provides https://indiankanoon.org/doc/149875120/ (missing the colon and extra digit), which is not the same URL. The Context contains the correct URL without the colon and extra digit."
+    }
+  },
+  {
+    "index": 8,
+    "fingerprint": "f0a7a51209a5029b4a477762612f226f497bd795b586617d1f6f610403ccd654",
+    "input": "How might a Section 5 application be affected if adverse police/security material contradicts the statutory setting?",
+    "family": "single",
+    "question_quality": {
+      "score": 0.0,
+      "reason": "The question asks about the effect of adverse police/security material on a Section 5 application, which requires specific legal context that is not provided in the question."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "The Actual Output addresses the Input question by stating how adverse police/security material contradicts the statutory setting in Section 5 applications, and the Context explicitly mentions the interaction between Section 5 applications and adverse police/security material. All claims are supported by the Context with no contradictions."
+    }
+  },
+  {
+    "index": 9,
+    "fingerprint": "8ccf989cadc0a94af8ad212ebcd660a210a85db545e7481ced08ebd017978cd7",
+    "input": "How might the case's interaction with Section 5 applications be altered by adverse police/security material?",
+    "family": "single",
+    "question_quality": {
+      "score": 0.3,
+      "reason": "The input question lacks clear context and specific objectives, requiring external knowledge about 'adverse police/security material' and 'Section 5 applications' to be answered without ambiguity."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "The Actual Output addresses the Input question by explaining how adverse police/security material can impact Section 5 applications, and the Context supports this claim by stating the case is relevant to the interaction between Section 5 applications and adverse police/security material."
+    }
+  },
+  {
+    "index": 10,
+    "fingerprint": "8456185da5afd59aa09b652d7c938701445e2a9ccc2bf11c783bfc8b5269aa8d",
+    "input": "What is the primary source for the Indian Citizenship Act as referenced in the document fragment at https://indiankanoon.org/docfragment/13970: 2026?",
+    "family": "single",
+    "question_quality": {
+      "score": 1.0,
+      "reason": "The question references a specific document fragment URL and asks for the primary source of the Indian Citizenship Act, which can be answered using the provided link without external knowledge."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "The Actual Output correctly identifies the Indian Citizenship Act of 1950 as the primary source based on the URL in the Context, which points to a specific document fragment from Indian Kanoon. The Context explicitly provides the URL and its associated document, supporting the claim without contradictions or external knowledge."
+    }
+  },
+  {
+    "index": 11,
+    "fingerprint": "1d6495069786d9a57ab39f8ab8e70b0dd6fd9fafc7c6f78c46fdb63e7979fc70",
+    "input": "Where can I find the primary source document for the Indian Citizenship Act 2026 as indicated in the provided context?",
+    "family": "single",
+    "question_quality": {
+      "score": 0.0,
+      "reason": "The question asks for the primary source document of the Indian Citizenship Act 2026, which does not exist as of 2023, indicating the question requires external knowledge beyond the provided context."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "The Actual Output provides the exact link from the Context without adding external knowledge, and the link is explicitly stated in the Context as the primary source for the Indian Citizenship Act 2026."
+    }
+  },
+  {
+    "index": 12,
+    "fingerprint": "c69238b44987a928026f38f9a370b9d2bef6f0ad3b724243067c7ddc5cc6917e",
+    "input": "How did the High Court rule on the petitioner's citizenship acquisition under Section 4, considering it could not be treated as a voluntary act when she was a minor?",
+    "family": "single",
+    "question_quality": {
+      "score": 0.3,
+      "reason": "The question references specific legal context (Section 4, citizenship acquisition) and a technical issue (minor's voluntary act), but lacks clear answers to the core question about the High Court's ruling without providing the ruling itself or necessary details."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "The Actual Output matches the Context exactly, addressing the Input question without contradictions or unsupported claims."
+    }
+  },
+  {
+    "index": 13,
+    "fingerprint": "0a66dbded4c7f7f02a3a10989db44f96eafab7cb10e77f58f523f161e4c8a12d",
+    "input": "How did the High Court determine that the petitioner's acquisition of Singapore citizenship as a minor was not a voluntary act?",
+    "family": "single",
+    "question_quality": {
+      "score": 0.4,
+      "reason": "The question refers to a specific legal determination by the High Court regarding Singapore citizenship acquisition, but lacks context about the petitioner, the legal proceedings, or the specific facts of the case, making it ambiguous without external knowledge."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "The Actual Output correctly addresses the Input question by stating the High Court's determination based on Section 4 of the Context, which explicitly supports that acquisition of citizenship as a minor could not be voluntary. No unsupported claims or contradictions were found."
+    }
+  },
+  {
+    "index": 14,
+    "fingerprint": "f26c9ab91154d3a0bbdf7f79a45041355c24ec50039edad5d1eb824a461e010c",
+    "input": "How does the Supreme Court judgment's primary source relate to the legal framework governing its decision-making process?",
+    "family": "single",
+    "question_quality": {
+      "score": 0.0,
+      "reason": "The question asks about the Supreme Court judgment's primary source and legal framework without providing specific context or constraints, leading to ambiguity in interpretation."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "The Actual Output correctly identifies the Constitution of India (Articles 124 and 138) as governing the decision-making process, which is explicitly supported by the Context. The primary source claim aligns with the provided PDF link in the Context."
+    }
+  },
+  {
+    "index": 15,
+    "fingerprint": "831ec7044803a2bd7e7d7738090963c5903112b52489820e135d10ef0faf9f29",
+    "input": "What is the URL of the Supreme Court judgment for the case identified in the primary source [21809_2023_6_1502_56499_Judgement_18-Oct-2024.pdf]?",
+    "family": "single",
+    "question_quality": {
+      "score": 0.0,
+      "reason": "The question asks for a URL of a specific Supreme Court judgment referenced by a filename, but the filename itself is not a valid primary source identifier and the question requires external knowledge to resolve."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "The Actual Output provides the URL directly from the Context without adding external knowledge. The Context explicitly lists the URL for the primary source [21809_2023_6_1502_56499_Judgement_18-Oct-2024.pdf], matching the Input question exactly."
+    }
+  },
+  {
+    "index": 16,
+    "fingerprint": "efb75c05da6a9b9cf6d9c3bc2f5062cb00da1a5ea9152efe96e9170e7804b9d4",
+    "input": "How do passport surrender procedures differ from citizenship acquisition under Indian legal frameworks?",
+    "family": "single",
+    "question_quality": {
+      "score": 0.0,
+      "reason": "The question asks about differences in procedures between two specific legal processes under Indian law, but it requires external knowledge about passport surrender and citizenship acquisition procedures which are not provided in the question."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "The Actual Output correctly addresses the Input question by distinguishing passport surrender and citizenship acquisition as distinct legal matters, aligning with Context which states they are related but distinct legal questions. It uses Context to explain separate records without adding external knowledge. No unsupported claims or contradictions found."
+    }
+  },
+  {
+    "index": 17,
+    "fingerprint": "b7330632696efd46254ead705fa1692915f21d80019e277f03a56b5a382e3018",
+    "input": "If a person gains foreign citizenship, should separate records be kept for citizenship and passport surrender formalities?",
+    "family": "single",
+    "question_quality": {
+      "score": 1.0,
+      "reason": "The question asks whether separate records should be kept for citizenship and passport surrender formalities after gaining foreign citizenship, which is a specific, well-defined objective without ambiguity. All necessary context (foreign citizenship, passport surrender formalities) is provided within the question. The question can be answered using only the information in the question without external knowledge. It avoids vague language by specifying the exact formalities and conditions."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "Input asks if separate records should be kept for citizenship and passport surrender. Actual Output states 'Yes, separate records should be kept for citizenship status and passport surrender formalities as they are distinct legal questions under Section 9 and passport law.' Context explicitly states 'Passport surrender is not the same legal question as citizenship' and 'Keep separate records for citizenship status, foreign nationality, Indian passport status and surrender/cancellation formalities.' All claims are directly supported by Context without contradictions."
+    }
+  },
+  {
+    "index": 18,
+    "fingerprint": "6663fdd98463e6a478f0c727ccbf521966bf0a7b50e768a36f484fc724e5ba87",
+    "input": "How does the Indian citizenship application process determine if someone is already a citizen?",
+    "family": "single",
+    "question_quality": {
+      "score": 0.0,
+      "reason": "The question asks how the Indian citizenship application process determines if someone is already a citizen, which requires external knowledge about citizenship laws and procedures that aren't provided in the question itself."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "The Actual Output correctly addresses the Input question by stating the process checks legal status through birth, descent, or statutory provisions, matching the Context's step 1: 'Establish whether you are already an Indian citizen under birth, descent or another provision'. It also clarifies that passport ownership doesn't confer citizenship, aligning with Context step 1: 'Do not assume possession or absence of an Indian passport creates citizenship'. No unsupported claims or contradictions are present, and all necessary Context information is used without external knowledge."
+    }
+  },
+  {
+    "index": 19,
+    "fingerprint": "d04a765dfc72179195f754c5963f05d38538aabc51fa4764d888922068a1f08a",
+    "input": "How do Indian citizenship rules require specific evidence collection to establish eligibility through statutory pathways?",
+    "family": "single",
+    "question_quality": {
+      "score": 0.3,
+      "reason": "The question asks about Indian citizenship rules and evidence collection without providing specific statutory pathways or required evidence details, so it lacks necessary context to be answered within the question alone."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "The Actual Output accurately addresses the Input question by detailing evidence collection steps aligned with Context items 1-4, explicitly referencing statutory routes (registration, naturalisation), exclusions, and document requirements without adding external knowledge."
+    }
+  },
+  {
+    "index": 20,
+    "fingerprint": "c5f87fc0a00d9b62e59cd4cb8a5f596028a1b7152868897497201b17ec063ae8",
+    "input": "How does Section 7D's requirement for a hearing opportunity interact with foreigner-control laws in OCI cancellation?",
+    "family": "single",
+    "question_quality": {
+      "score": 0.0,
+      "reason": "The question lacks specific context about the laws or regulations being referenced, and requires external knowledge about OCI cancellation procedures and foreigner-control laws."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "The Actual Output correctly addresses the Input question by stating Section 7D's requirement for hearing and its interaction with foreigner-control laws in OCI cancellation, which aligns with the Context's mention of recent litigation examining Section 7D and foreigner-control laws. All claims are supported by Context without contradictions or external knowledge."
+    }
+  },
+  {
+    "index": 21,
+    "fingerprint": "084eb81abf0ef6f10f0aaa413414ff82cdf4eb062394d43072d73bae8af5ac4f",
+    "input": "How does Section 7D function within OCI cancellation procedures under foreigner-control laws and what hearing rights are associated with this section?",
+    "family": "single",
+    "question_quality": {
+      "score": 0.0,
+      "reason": "The question lacks specific context about OCI cancellation procedures and foreigner-control laws, and requires external knowledge beyond the question's scope."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "Input question addresses OCI cancellation procedures under foreigner-control laws and hearing rights. Actual Output correctly states Section 7D governs OCI cancellation on specified grounds, requires hearing opportunity, and mentions recent litigation on interaction with foreigner-control laws. Context confirms Section 7D governs cancellation on grounds, requires hearing opportunity, and recent litigation on interaction with foreign and foreigner-control laws. No unsupported claims or contradictions found."
+    }
+  },
+  {
+    "index": 22,
+    "fingerprint": "c21d201c26d75ac4a172d15897578be285899f0a2b9acf737bed6e53f6e4317e",
+    "input": "Which companion document provides precedent for birth, descent, registration, foreign citizenship, OCI, administrative delays, and deprivation in Indian citizenship cases?",
+    "family": "single",
+    "question_quality": {
+      "score": 1.0,
+      "reason": "The question asks for a specific companion document that provides precedent for multiple legal concepts in Indian citizenship cases. It does not require external knowledge as all necessary context is provided within the question itself."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "Input question addresses birth, descent, registration, foreign citizenship, OCI, administrative delays, and deprivation in Indian citizenship cases. Actual Output correctly identifies 'Indian Citizenship Case Law: Applicant-Focused Precedent Handbook' as the companion document using Context's instruction 'For precedent on birth, descent, registration, foreign citizenship, OCI, administrative delay and deprivation, use the companion document: ...'. No claims contradict Context or external knowledge."
+    }
+  },
+  {
+    "index": 23,
+    "fingerprint": "d053be52d797663caebdbbfefab17fd6369dd0286cc96be5537d1d6d84c42ccc",
+    "input": "How should the Indian Citizenship Case Law: Applicant-Focused Precedent Handbook be cross-referenced for addressing administrative delays and deprivation issues?",
+    "family": "single",
+    "question_quality": {
+      "score": 0.0,
+      "reason": "The input question lacks specific context for cross-referencing the handbook, requiring external knowledge about Indian citizenship case law and administrative processes."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "The Actual Output correctly cross-references PDF-2 for administrative delays and deprivation issues as per Context's statement about 'administrative delay and deprivation' using the Handbook. No unsupported claims or contradictions found."
+    }
+  },
+  {
+    "index": 24,
+    "fingerprint": "2f45c1228732f265f773d46498d0a917306d516fb6fb23993970fbc34ee772f4",
+    "input": "What specific residence evidence is required for naturalisation applications under the document matrix rules?",
+    "family": "single",
+    "question_quality": {
+      "score": 1.0,
+      "reason": "The question asks about 'specific residence evidence' required for naturalisation under 'document matrix rules', which is a precise, well-defined objective without ambiguity. All necessary context (naturalisation, document matrix rules) is provided within the question itself. The question can be answered using only the information in the question without external knowledge. It avoids vague language by specifying 'specific residence evidence' and 'document matrix rules'."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "Input question asks about residence evidence for naturalisation under document matrix rules. Actual Output states 'residence records and other evidence relevant to the applicable rule' which matches Context's 'Residence, Examples of evidence = Residence records and other evidence relevant to the applicable rule'. No unsupported claims or contradictions found."
+    }
+  },
+  {
+    "index": 25,
+    "fingerprint": "090b17f1c7c6e20a14fc0fb3c34086bbbca9d0a2835069d16261b6b43f0cbf9b",
+    "input": "What specific documents prove a parent's Indian citizenship for naturalization purposes?",
+    "family": "single",
+    "question_quality": {
+      "score": 0.0,
+      "reason": "The question asks for specific documents that prove Indian citizenship for naturalization, which requires external knowledge about immigration laws and processes not provided in the question itself."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "The Actual Output mentions 'Indian passport, citizenship certificate, or official records' which directly matches the Context's 'Indian citizenship of parent, Examples of evidence = Indian passport/citizenship certificate/official records'. No unsupported claims or contradictions found."
+    }
+  },
+  {
+    "index": 26,
+    "fingerprint": "e3841d438ce7ca37d49459192d78eace1dfac50cb985dcb23105d0f6c3311dec",
+    "input": "How does the Indian Citizenship Act define descent-based citizenship qualification, including the specific conditions under which an individual can claim citizenship through an Indian parent born abroad?",
+    "family": "single",
+    "question_quality": {
+      "score": 1.0,
+      "reason": "The question specifies 'Indian Citizenship Act' and 'descent-based citizenship qualification' with clear conditions for claiming citizenship through an Indian parent born abroad, providing sufficient context without ambiguity or external knowledge."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "The Actual Output correctly addresses the Input question by citing Section 4 of the Indian Citizenship Act, which matches the Context's description of 'Descent, Where to look = Section 4. Descent, Typical applicant question = Was I a citizen because an Indian parent was a citizen when I was born abroad?'. The condition stated in the Actual Output aligns with the Context's requirement that the parent must have been an Indian citizen at birth. No unsupported claims or contradictions are present."
+    }
+  },
+  {
+    "index": 27,
+    "fingerprint": "f089cab1f92949d3ad1bc3c2aa7b417090e1e787eaf1cbfd65a300076ca4ad11",
+    "input": "How do Section 6 and the Third Schedule of the Citizenship Act address naturalisation requirements for applicants with Indian parentage?",
+    "family": "single",
+    "question_quality": {
+      "score": 1.0,
+      "reason": "The question specifies Section 6 and the Third Schedule of the Citizenship Act, which defines naturalisation requirements for applicants with Indian parentage, providing clear context and objective without ambiguity or external knowledge."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "Input question addresses naturalisation requirements for Indian parentage. Actual Output correctly states Section 6 and Third Schedule specify statutory residence and criteria for naturalisation, including Indian parentage eligibility. Context confirms Section 6 + Third Schedule covers naturalisation with typical questions about statutory residence conditions. All claims are supported without contradictions."
+    }
+  },
+  {
+    "index": 28,
+    "fingerprint": "e7bf352c4dcad3615b6384df0fb8319595a33f2e31b791b62b42ae5186266a47",
+    "input": "How many specific processing stages exist for a naturalisation application, including submission and acknowledgement, initial scrutiny for completeness, document verification, police/security inquiry, clarification requests, statutory eligibility assessment, oath of allegiance, and final grant or rejection?",
+    "family": "single",
+    "question_quality": {
+      "score": 1.0,
+      "reason": "The question lists specific processing stages for naturalisation applications without ambiguity, provides all necessary context within the question, and does not require external knowledge to answer. It avoids vague language by explicitly naming each stage."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "Input asks for 8 stages including submission and acknowledgement, but Actual Output lists 8 stages with a minor discrepancy in numbering (e.g., '5 Clarification or deficiency request' vs 'Clarification requests' in Input) and matches Context exactly."
+    }
+  },
+  {
+    "index": 29,
+    "fingerprint": "de90864be1670ce901e809b8b0925bdf7728934e35ad564c14cabb98a129aa33",
+    "input": "How does document verification progress to the next stage in naturalisation processing?",
+    "family": "single",
+    "question_quality": {
+      "score": 0.0,
+      "reason": "The question lacks specific context about naturalisation processing stages and assumes external knowledge about document verification workflows."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "The Actual Output correctly maps the document verification stage (Stage 3) to the next stage after Stage 2 (Initial scrutiny) and mentions subsequent stages (4-6) as per Context. All claims are explicitly supported by Context without contradictions or external knowledge."
+    }
+  },
+  {
+    "index": 30,
+    "fingerprint": "7a0d63fd98e3ff79851819667367227e521a15b3c83f94675b0bfb97fb979841",
+    "input": "How does Section 7 of the citizenship acquisition rules apply to territories joining India, and what are the specific order specifications and effective dates for this process?",
+    "family": "single",
+    "question_quality": {
+      "score": 0.0,
+      "reason": "Input mentions 'Section 7 of the citizenship acquisition rules' and 'territories joining India', but the question requires external knowledge about citizenship rules and effective dates which are not provided in the question."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "Input question addresses citizenship acquisition rules for territories joining India. Actual Output correctly states Section 7 allows Central Government to specify persons becoming citizens and effective date. Context confirms Section 7 deals with territory joining India, Central Government's power to specify, and requirement to first identify relevant territorial legislation/order. Actual Output matches Context without contradictions or unsupported claims."
+    }
+  },
+  {
+    "index": 31,
+    "fingerprint": "eb2d12e689fe9cacc592413c921f0904b00963f43be62f583cf56d29efc9c685",
+    "input": "If a territory joins India under Section 7, how would the Central Government's specified order determine citizenship eligibility and effective dates?",
+    "family": "single",
+    "question_quality": {
+      "score": 0.0,
+      "reason": "The question refers to 'Section 7' and 'Central Government's specified order' which are not defined in the input, requiring external knowledge for clarification."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "The Actual Output correctly addresses the Input question by stating that Section 7 requires the Central Government to specify citizens and effective dates via order, and that this is not an individual application route. The Context explicitly states that Section 7 deals with citizenship for territories joining India, the Central Government may specify persons and effective dates via order, and this is not an ordinary individual application route. The Actual Output matches the Context without contradictions or unsupported claims."
+    }
+  },
+  {
+    "index": 32,
+    "fingerprint": "474baa724862940fabd302a5da707c9cf205614f27225895732843ca92f3ebaf",
+    "input": "How does Section ... differ from standard Section ... applications under the Citizenship Act, 1955?",
+    "family": "cross",
+    "question_quality": {
+      "score": 0.0,
+      "reason": "The question refers to unspecified sections (Section ...) and requires external knowledge about the Citizenship Act, 1955, which is not provided in the question."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "Input question addresses differences in Section 6A vs standard applications. Actual Output correctly states Section 6A's special provisions and mentions Supreme Court's 2024 decision, which matches Context's points on constitutional validity and Assam Accord framework. All claims are supported by Context without contradictions."
+    }
+  },
+  {
+    "index": 33,
+    "fingerprint": "281b762f77df4e28c6c5dffce8177e32142d2c1f05a4bbf38cde3cca26731ea0",
+    "input": "How does Section 6A's distinct framework interact with constitutional validity and the Assam Accord?",
+    "family": "cross",
+    "question_quality": {
+      "score": 0.0,
+      "reason": "The question lacks specific context about Section 6A, constitutional validity, or the Assam Accord, requiring external knowledge to answer."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "The Actual Output correctly addresses the Input question by stating Section 6A's distinct framework interacts with constitutional validity and the Assam Accord through specific migration categories, registration requirements, and dates, which are distinct from ordinary applications. It mentions the Supreme Court's 2024 decision in In Re: Section 6A of the Citizenship Act, 1955 confirming validity within the Assam Accord framework. The Context supports these claims explicitly, including the 2024 decision and the distinction of Section 6A's requirements. There are no contradictions, and all necessary information from the Context is used without external knowledge."
+    }
+  },
+  {
+    "index": 34,
+    "fingerprint": "be2cfbcff12af56ad56c7fcbc8d956fdbaa67e3da54be4ae84a78dd6f9305a35",
+    "input": "How does Section 7D's OCI cancellation process interact with foreigner-law actions under the Indian legal framework?",
+    "family": "cross",
+    "question_quality": {
+      "score": 0.0,
+      "reason": "The question asks about Section 7D's OCI cancellation process interacting with foreigner-law actions under Indian law, which requires external knowledge beyond the question's text (e.g., specific legal provisions, jurisdictional details)."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "The Actual Output correctly addresses the Input question by stating that Section 7D requires a reasonable opportunity of hearing before cancellation and that OCI cardholders remain subject to foreigner law, both of which are explicitly supported by the Context. The Context mentions the statutory requirement of a reasonable opportunity of hearing and the relationship between OCI cancellation and foreigner-law actions, confirming no unsupported claims or contradictions."
+    }
+  },
+  {
+    "index": 35,
+    "fingerprint": "2082cca9ed71b2e1146a0451d2ce9453451957ce4c3eab846edb0f67d0d2e985",
+    "input": "How does Section 7D's reasonable hearing requirement interact with foreigner-law actions for OCI cardholders, and what specific legal provisions might apply to this situation?",
+    "family": "cross",
+    "question_quality": {
+      "score": 0.0,
+      "reason": "The question asks about interactions between Section 7D and foreigner-law actions for OCI cardholders, which requires external knowledge of specific legal provisions beyond the question's text."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "The Actual Output correctly addresses the Input question by explaining Section 7D's hearing requirement and its interaction with foreigner-law actions for OCI cardholders, using Context to confirm OCI cardholders are not Indian citizens and subject to foreigner law. It aligns with Context's mention of Section 7D's proviso for hearing before cancellation and recent litigation examining Section 7D and foreigner-law actions. No unsupported claims or contradictions are present."
+    }
+  },
+  {
+    "index": 36,
+    "fingerprint": "ec3de38e921cf6b5d903263085f1e5f3320db7407c29ed0283a889cfb7c5c87b",
+    "input": "How does the Supreme Court's decision differentiate OCI holders' admission policies from Indian citizens' rights?",
+    "family": "cross",
+    "question_quality": {
+      "score": 0.0,
+      "reason": "The question lacks specific context about what 'OCI holders' or 'Indian citizens' rights' refers to, requiring external knowledge to answer."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "The Actual Output addresses the Input question by stating the Supreme Court's differentiation between OCI holders and citizens, and it aligns with Context entries that emphasize OCI as a distinct statutory status without automatic parity. No unsupported claims or contradictions are present."
+    }
+  },
+  {
+    "index": 37,
+    "fingerprint": "88fbf3d8a93ef5611ba24e7cd92841a4ec8757470e35453c74f5d241e5cf62fb",
+    "input": "Does OCI status confer full citizenship rights under Indian law, and how does it differ from citizenship in terms of educational admissions?",
+    "family": "cross",
+    "question_quality": {
+      "score": 0.0,
+      "reason": "The question asks about OCI status and citizenship, but the input lacks specific context for educational admissions differences and requires external knowledge on Indian law."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "The Actual Output correctly addresses the Input question by stating OCI status does not confer full citizenship rights, aligning with Context statements about OCI being a distinct statutory status and not granting automatic parity for educational admissions. All claims in the Actual Output are explicitly supported by the Context without contradictions or external knowledge."
+    }
+  },
+  {
+    "index": 38,
+    "fingerprint": "35fed13a6c71cd7f1ce56ec0987e4aa6866356d19a55fad466ade3c53c39f557",
+    "input": "How does marriage to an Indian citizen compare to the requirements for Section .5(1)(f) citizenship eligibility, and what additional conditions must be satisfied?",
+    "family": "cross",
+    "question_quality": {
+      "score": 0.0,
+      "reason": "The question references Section .5(1)(f) citizenship eligibility without specifying the country or legal context, and the phrasing 'compare to the requirements' implies external knowledge is needed."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "Actual Output correctly addresses the Input question by comparing Section 5(1)(c) (marriage to Indian citizen) and Section 5(1)(f) eligibility, and accurately states the required conditions from Context. All claims are explicitly supported by Context without contradictions."
+    }
+  },
+  {
+    "index": 39,
+    "fingerprint": "62244f51683bda828f9f396bed929177abaaa6bee63645cafe9a90e8138dff9a",
+    "input": "How do the Section 5(1)(f) requirements for Indian citizenship compare to the conditions for marriage to an Indian citizen?",
+    "family": "cross",
+    "question_quality": {
+      "score": 0.0,
+      "reason": "The question asks about comparing Section 5(1)(f) requirements for Indian citizenship to marriage conditions, but it lacks specific context about the legal framework or jurisdiction, requiring external knowledge to answer accurately."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "The Actual Output correctly identifies Section 5(1)(f) requirements (statutory residence/service, undertaking, oath) and compares them to marriage conditions under Section 5(1)(c), which also require similar elements. The Context confirms both sections require statutory residence/service, undertaking, and oath, with marriage not automatically conferring citizenship. All claims are supported by Context without contradictions."
+    }
+  },
+  {
+    "index": 40,
+    "fingerprint": "aac0fc612b8f8d9e60d3199b0e33ea2f382f3b779326711ea11b06245bfadbc9",
+    "input": "How do the case limits and residence requirements differ for children born abroad in citizenship registration for different countries?",
+    "family": "cross",
+    "question_quality": {
+      "score": 0.2,
+      "reason": "The question lacks specific country names or contexts, requiring external knowledge to answer without ambiguity."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "The Actual Output correctly addresses Input question using Context: 'The case is fact-specific' matches Context's first point, and 'Residence rules are category-specific' aligns with Context's second point about Section 5 categories. No unsupported claims or contradictions found."
+    }
+  },
+  {
+    "index": 41,
+    "fingerprint": "a45a4ba9d5f0ba515b0ecbfb9b6b4fa6ab633311981515e9e57acf6f6deee883",
+    "input": "How do the specific residence rules in Section 5 categories affect citizenship applications, and what are the key differences between these rules and those in other sections?",
+    "family": "cross",
+    "question_quality": {
+      "score": 0.0,
+      "reason": "The question asks about 'specific residence rules in Section 5 categories' and 'key differences between these rules and those in other sections', but the input does not provide the actual content of the sections or the context for how these rules apply to citizenship applications. External knowledge about citizenship rules is required, violating step 3."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "The Actual Output addresses the Input question by explaining Section 5 residence rules as category-specific with examples from Context. It correctly states seven-year and twelve-month periods, matches rules to Section 5 clauses, and mentions fact-specificity without contradictions. All Context points are used without external knowledge."
+    }
+  },
+  {
+    "index": 42,
+    "fingerprint": "f8fbe3f403fd2e3084858eca216d44dee4c526c8a5e96289f064ff28f56d7675",
+    "input": "How do passport authorities handle citizenship disputes for individuals born in India under Section 3? How can I find out more about the legal process for resolving such disputes without relying on a single document?",
+    "family": "cross",
+    "question_quality": {
+      "score": 0.2,
+      "reason": "The question asks about passport authorities handling citizenship disputes under Section 3, but the question does not specify which country's passport authority or which section of the law, leading to ambiguity. It also asks how to find more information without relying on a single document, which requires external knowledge beyond the question itself."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "The Actual Output correctly addresses the Input question using Context: 'Passport authorities must apply the Passport Act...' matches Context's 'Where a person establishes citizenship by birth...'. It references the case-law handbook as per Context. No unsupported claims or contradictions; all necessary context used without external knowledge."
+    }
+  },
+  {
+    "index": 43,
+    "fingerprint": "4af6628e7f15f9ec82779be36597c6e40d32df878b4f3865193c2e318a5a4010",
+    "input": "Do Indian citizens born under Section 12 of the Citizenship Act, 1958 face passport disputes without citizenship verification? How can this be resolved using both the Citizenship Act and the Passport Act?",
+    "family": "cross",
+    "question_quality": {
+      "score": 0.6,
+      "reason": "The question asks about a specific legal scenario involving Section 12 of the Citizenship Act, 1958 and requires resolution under both Acts, but lacks clear context on how passport disputes are defined or what 'citizenship verification' entails, leading to ambiguity."
+    },
+    "answer_grounding": {
+      "score": 0.3,
+      "reason": "Input asks about disputes for Section 12 births, Actual Output states no disputes occur, but Context mentions disputes arise when citizenship is questioned for Section 3 births. Actual Output incorrectly claims Section 12 births don't face disputes, while Context shows disputes happen for Section 3 births; this contradicts Context and misrepresents the issue."
+    }
+  },
+  {
+    "index": 44,
+    "fingerprint": "d69fb5998d61533b8a53576ea881831006d3a26df8a031d731ac2955f0f1e116",
+    "input": "How does Section 6B's Collector-centered process differ from older citizenship categories in procedural requirements?",
+    "family": "cross",
+    "question_quality": {
+      "score": 0.0,
+      "reason": "The question asks about procedural differences between Section 6B's Collector-centered process and older citizenship categories, which requires external knowledge of citizenship categories and procedural requirements not provided in the input."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "The Actual Output accurately addresses the Input question by comparing Section 6B's procedural requirements with older categories, explicitly citing the 2024 Rules and 2026 changes from the Context. It correctly lists the states/UTs where Collector-centered processing applies and aligns with Context entries on administrative arrangements, without adding external knowledge or contradictions."
+    }
+  },
+  {
+    "index": 45,
+    "fingerprint": "2b02bc622d2a0f44b6fccc54a8646f464f69f14529737382a5277e138eafb219",
+    "input": "How do Section 6B processing arrangements in Jammu and Kashmir and Ladakh differ from other regions under the 2 as per the 2026 MHA rules?",
+    "family": "cross",
+    "question_quality": {
+      "score": 0.0,
+      "reason": "The question references '2026 MHA rules' and 'Section 6B processing arrangements' which are not defined in the input, and 'Jammu and Kashmir and Ladakh' may not have clear regional distinctions under the 2026 MHA rules as the rules do not exist yet."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "Actual Output correctly addresses Input question using Context: Jammu and Kashmir and Ladakh are included in the specified list (Gujarat, Rajasthan, Punjab, West Bengal, Assam except tribal areas, Tripura except tribal areas, and Jammu and Kashmir and Ladakh) per Context. Processing arrangements match Context's description of electronic submission, verification, inquiry, oath, and disposal by Collector. No unsupported claims or contradictions found."
+    }
+  },
+  {
+    "index": 46,
+    "fingerprint": "6d995213f7b2e73b3df22ea1354ce4bbabdb89573fc7bf1b5e72c990429c8e4c",
+    "input": "How did the Supreme Court case Union of India v. Pranav Srinivasan cite specific provisions of the Citizenship Act, 1955? How can the case be interpreted without relying on a single document?",
+    "family": "cross",
+    "question_quality": {
+      "score": 0.0,
+      "reason": "The question asks for specific provisions cited in the case and how it can be interpreted without a single document, which requires external knowledge beyond the question's content."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "The Actual Output correctly cites Citizenship Act, 1955 Sections 5, 8, and 9 from the Context (Case 4.1). It mentions cross-referencing multiple documents (Citizenship Act 1955, Citizenship Rules 2009, MHA Foreigners Division guidelines) to avoid over-reliance on a single source, which aligns with the Context's source registers. All claims are supported by Context without contradictions or external knowledge."
+    }
+  },
+  {
+    "index": 47,
+    "fingerprint": "986717ba98c938b58c4ad27e80264a8bacc3fc20f66764ac0385c4574b072e48",
+    "input": "How do the Citizenship Rules, 2009 and the Supreme Court case Union of India v. Pranav Srinivasan relate to each other?",
+    "family": "cross",
+    "question_quality": {
+      "score": 0.0,
+      "reason": "The question asks how two specific legal documents relate to each other, which requires external knowledge about the 2009 Citizenship Rules and the Supreme Court case Union of India v. Pranav Srinivasan. It cannot be answered using only the information in the question."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "The Actual Output correctly identifies the relationship between the Citizenship Rules, 2009 and the Supreme Court case Union of India v. Pranav Srinivasan, supported by Context entries on Constitution Articles 8-11, Citizenship Act Sections 5, 8, 9, and specific references to the Source Register and OCI cards. All claims align with the Context without contradictions or unsupported assertions."
+    }
+  },
+  {
+    "index": 48,
+    "fingerprint": "90ff01eeeab4263b2b503d615a13e741e50708ba18aa7c897a8979087a299ff1",
+    "input": "Which handbook section addresses citizenship by descent and foreign citizenship cases, and how does this compare to the requirements for naturalization in the other handbook?",
+    "family": "cross",
+    "question_quality": {
+      "score": 0.0,
+      "reason": "The input question refers to 'handbook sections' and 'other handbook', implying external knowledge is needed beyond the question itself."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "Input asks for handbook section on citizenship by descent and foreign citizenship cases versus naturalization requirements. Actual Output correctly identifies Part IV for citizenship by descent/foreign citizenship and Part V for naturalization. Context lists Part IV as 'Cases on citizenship by descent / foreign citizenship' and Part V as 'Cases on registration, residence and naturalisation', which matches the Actual Output without contradictions or unsupported claims."
+    }
+  },
+  {
+    "index": 49,
+    "fingerprint": "512bac2236f27acbdd28e442fc9c328e288734485e0b9e0363ac178515570f6f",
+    "input": "How does the 'Indian Citizenship Case Law: Applicant-Focused Precedent Handbook' cross-reference with the handbook's Parts I through X on citizenship procedures?",
+    "family": "cross",
+    "question_quality": {
+      "score": 1.0,
+      "reason": "The question asks about cross-referencing a specific handbook with its own parts, which is well-defined and self-contained."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "The Actual Output correctly identifies Part III through VII and cross-references with PDF-2 as per Context. All claims are explicitly supported by Context without contradictions."
+    }
+  },
+  {
+    "index": 50,
+    "fingerprint": "40530c1a9cbf20dd6c3d21442bcfc26709051a0daf864878ad3fe4cda3214949",
+    "input": "How does the Supreme Court's Izhar Ahmad Khan ruling clarify Section 9's voluntary citizenship acquisition termination process, and what specific legal provisions from other relevant documents support this interpretation?",
+    "family": "cross",
+    "question_quality": {
+      "score": 0.0,
+      "reason": "The question asks for specific legal provisions from 'other relevant documents' which are not provided in the question, requiring external knowledge."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "Input question addresses Section 9 termination process; Actual Output correctly identifies Izhar Ahmad Khan ruling and Section 9(2) with evidence provisions from Citizenship Rules. Context confirms Constitution Article 9 and Section 9(2) are key provisions, and the ruling is foundational for termination. No unsupported claims or contradictions found."
+    }
+  },
+  {
+    "index": 51,
+    "fingerprint": "5fcc80f2e4c97341c8ded9e1bd8bd1da0a686cfa78142b9015d0e0198a6732e7",
+    "input": "How do the Citizenship Rules' evidence provisions compare to Section 9's requirements for voluntary foreign citizenship acquisition?",
+    "family": "cross",
+    "question_quality": {
+      "score": 0.0,
+      "reason": "The question references specific legal sections ('Citizenship Rules' evidence provisions' and 'Section 9') but does not provide the actual content of these sections, so external knowledge is required to compare them. This violates step 3."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "The Actual Output correctly addresses the Input question by comparing Citizenship Rules' evidence provisions to Section 9's requirements using the Supreme Court case Izhar Ahmad Khan v. Union of India (1962) as cited in Context. All claims are supported by Context: the case established termination of citizenship under Section 9(2), and Citizenship Rules provide evidence provisions. No contradictions exist, and Context is fully utilized without external knowledge."
+    }
+  },
+  {
+    "index": 52,
+    "fingerprint": "2ec3eeb2576ebaa0fd58354e7d2a3192078d3d53788437ba5426a2bf70632e60",
+    "input": "How do Section 6A's generic citizenship pathways differ from Section 6B's specialized migration categories under CAA?",
+    "family": "cross",
+    "question_quality": {
+      "score": 1.0,
+      "reason": "The input asks about specific sections of CAA (Citizenship Act) and requires comparison of pathways, which is well-defined and self-contained."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "Input question addresses differences between Section 6A and 6B. Actual Output correctly states Section 6A is generic and not specialized, while Section 6B has specific criteria from Context. Context explicitly supports both claims without contradictions. All necessary context information used without external knowledge."
+    }
+  },
+  {
+    "index": 53,
+    "fingerprint": "b75354026ceb29f1b37cff615785f7ffe775c1e17e4f3b1b0402ac6e95e53215",
+    "input": "How do the specified countries, communities, cut-off date, and modified naturalisation period meet Section 6B's eligibility criteria for CAA citizenship?",
+    "family": "cross",
+    "question_quality": {
+      "score": 0.0,
+      "reason": "The question refers to 'specified countries', 'communities', 'cut-off date', and 'modified naturalisation period' without defining them, and requires knowledge of Section 6B's eligibility criteria for CAA citizenship, which is not provided in the question."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "The Actual Output correctly addresses the Input question by stating that Section 6B's criteria require specified countries, communities, cut-off date, and modified naturalisation period as statutory conditions. This aligns with Context: 'The statutory criteria include specified countries, communities and a cut-off date, together with special treatment under the illegal-migrant provisions and a modified naturalisation period.' The output does not introduce unsupported claims and matches the Context without contradictions."
+    }
+  },
+  {
+    "index": 54,
+    "fingerprint": "c5a0518619a7da8a97aee6ddf86f6e39957c80c8add6a7b5e6637605ee776991",
+    "input": "How do the key areas covered in the Indian Citizenship Case Law guide for applicants differ from the eligibility and application processes outlined in the document?",
+    "family": "cross",
+    "question_quality": {
+      "score": 0.2,
+      "reason": "The input question references 'Indian Citizenship Case Law guide' and 'eligibility and application processes' without providing specific details about the document, making it ambiguous and requiring external knowledge."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "The Actual Output correctly identifies key areas (Birth, Descent, etc.) and processes (Eligibility, Application, etc.) from Context without adding external knowledge, and explicitly mentions verifying official texts as per Context. No unsupported claims or contradictions found."
+    }
+  },
+  {
+    "index": 55,
+    "fingerprint": "11881d2e6ecc076d2987137da1a5efa2b33a69da0906d6e95287f31c15a1fc82",
+    "input": "How does the Applicant-Focused Precedent Handbook ensure applicants verify current official text before legal decisions, and what specific steps should they take to avoid outdated references in their applications?",
+    "family": "cross",
+    "question_quality": {
+      "score": 0.0,
+      "reason": "The question asks about a specific document that does not exist in the input, requiring external knowledge to answer."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "The Actual Output addresses the Input question by specifying steps to verify current official text and avoid outdated references using the Context's 28 September 2026 version. It does not add external knowledge and matches the Context's emphasis on verifying official text before legal decisions."
+    }
+  },
+  {
+    "index": 56,
+    "fingerprint": "6c8942af87e2dfc80ca6cc8588557b7eaa6572d78afe03fc7d1043b736e24987",
+    "input": "How can I get Indian citizenship through birth, descent, or registration under the Citizenship Act?",
+    "family": "summary",
+    "question_quality": {
+      "score": 0.0,
+      "reason": "The question asks for a method to obtain Indian citizenship through birth, descent, or registration under the Citizenship Act, which requires specific legal knowledge. The question does not provide enough context for a clear answer without external knowledge."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "The Actual Output addresses the Input question by explaining birth, descent, and registration criteria from Sections 3-5 of the Citizenship Act, and references case law (Munna Mohammed Grouse v. Union of India (2026) and Shantanu Prakash v. Union of India (2026)) that aligns with Context. All claims are supported by Context, with no contradictions or external knowledge added."
+    }
+  },
+  {
+    "index": 57,
+    "fingerprint": "35f3f24001c3fe5afc654d9e3cdd4d8b5960d8e13cc677f1b277c961169f70e8",
+    "input": "How can I analyze judicial rulings on citizenship delays and deprivation under Section 5(1)(f) and Section 10 to get a high-level overview of the main themes?",
+    "family": "summary",
+    "question_quality": {
+      "score": 0.0,
+      "reason": "The question asks how to analyze judicial rulings without specifying the jurisdiction or legal system, requiring external knowledge to answer."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "The Actual Output addresses the Input question by identifying key judicial themes under Section 5(1)(f) and Section 10 using the Context. Claims about delays (Article 226), deprivation disputes (Section 10), and recent cases (*Gurmeet Singh Bains* and *Nageshwar Mishra*) are explicitly supported by the Context. No contradictions exist, and all necessary Context information is used without external knowledge."
+    }
+  },
+  {
+    "index": 58,
+    "fingerprint": "00a357b1b759a0131ab06daecee1457a554806ef961f163c65b397547686e12b",
+    "input": "How do Part I through X of the Indian citizenship case-law handbook differ in their focus and purpose?",
+    "family": "summary",
+    "question_quality": {
+      "score": 0.0,
+      "reason": "The question asks about a specific document (Indian citizenship case-law handbook) but does not provide the actual content of Part I through X, making it impossible to answer without external knowledge."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "Actual Output matches Context: Part I (structure), II (template), III (birth), IV (descent), V (registration/residence/naturalization), VI (OCI), VII (delays/rejections), VIII (deprivation), IX (CAA 6A/6B), X (index) all explicitly supported by Context entries without contradictions or external claims."
+    }
+  },
+  {
+    "index": 59,
+    "fingerprint": "76c4572750b25b2b9b393006dbd0a3c4cd5c61ebc4068d218eafe674a0d7a34d",
+    "input": "How does the handbook categorize citizenship by birth versus citizenship by descent cases?",
+    "family": "summary",
+    "question_quality": {
+      "score": 0.0,
+      "reason": "The question asks about categorization in a handbook but does not specify which handbook, making it ambiguous and requiring external knowledge."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "Input question about handbook categorization is addressed; Actual Output correctly identifies Part III for birth and Part IV for descent using Context's Part III and Part IV labels; all claims (e.g., Section 5(1)(f), specific cases) are explicitly supported by Context; no contradictions found."
+    }
+  },
+  {
+    "index": 60,
+    "fingerprint": "766fda148905f5c2808925d8fb3eb0f0d87939ced59c00bcd1dc43e89fbf99b2",
+    "input": "How does the citizenship case-law handbook categorize cases by citizenship acquisition and disputes?",
+    "family": "summary",
+    "question_quality": {
+      "score": 0.0,
+      "reason": "The question asks about how a specific handbook categorizes cases, but the handbook itself is not provided in the question, so external knowledge is required to answer."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "Input question addresses categorization by citizenship acquisition/disputes. Actual Output correctly lists 10 parts matching Context's Part I-X descriptions, with specific cases (Pranav Srinivasan, Munna Mohammed Grouse, Nageshwar Mishra) explicitly supported by Context. No contradictions exist; all Context parts are used without external knowledge."
+    }
+  },
+  {
+    "index": 61,
+    "fingerprint": "6fa8456c0f32f397d9714d86cab16781426b532c78ff0a13f9e25b700e86639f",
+    "input": "How can I compare the legal issues in citizenship by birth, descent, and naturalisation cases regarding administrative rejection support and adverse security information's role?",
+    "family": "summary",
+    "question_quality": {
+      "score": 0.0,
+      "reason": "The question lacks specific context and requires external knowledge about citizenship laws beyond the provided text."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "The Actual Output addresses the Input question by detailing legal issues in citizenship cases with support from the Context, including specific cases like Pranav Srinivasan and Munna Mohammed Grouse that align with Context's Case 4.1 and Case 5.2. All claims are explicitly supported by Context without contradictions or external knowledge."
+    }
+  },
+  {
+    "index": 62,
+    "fingerprint": "cdd725fb746d33bee6a0ffd79d0a20a6f9d7f17be0eb5d927a020d0283ca0ede",
+    "input": "How can I get a high-level overview of the specific processing stages for citizenship applications under the 28 September 2026 legal reference?",
+    "family": "summary",
+    "question_quality": {
+      "score": 0.0,
+      "reason": "The question asks about a specific legal reference from 2026, which does not exist yet, requiring external knowledge beyond the question's scope."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "The Actual Output correctly lists all processing stages from the Context's '32. Possible processing stages' and addresses the 28 September 2026 reference. It specifies that applicants must align claims with statutory conditions to avoid rejection, which aligns with Context's '24. Applicant takeaway'. No unsupported claims or contradictions exist."
+    }
+  },
+  {
+    "index": 63,
+    "fingerprint": "b6c02a7d15a9b189092978097bc55967895b00a20c3aeda42bd84294b74007d6",
+    "input": "How can I get a high-level overview of the Citizenship Act's eligibility provisions, including specific exceptions for illegal migrants under Section :6B, and how do categories like Indian origin, marriage to Indian citizens, and territorial integration events define citizenship registration?",
+    "family": "summary",
+    "question_quality": {
+      "score": 0.3,
+      "reason": "The question asks for specific information about citizenship eligibility provisions and exceptions, but it references 'Section :6B' which appears to be a typo (should be Section 6B), and requires external knowledge about legal terms like 'Indian origin' and 'territorial integration events' that are not defined within the question."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "The Actual Output addresses the Input question by referencing Section 6B exceptions for illegal migrants, categories like Indian origin and marriage, and territorial integration events. All claims are supported by Context: Section 6B's statutory exceptions, territorial integration requirements (Context 24), and deprivation under Section 10 (Context 41). No contradictions exist, and Context is fully utilized without external knowledge."
+    }
+  },
+  {
+    "index": 64,
+    "fingerprint": "68448eca4ede0a3e518b227e1363e61cb5f016d0c137db95d70d411420d17629",
+    "input": "How can I identify the specific territorial event and notification for citizenship by territorial integration applications?",
+    "family": "summary",
+    "question_quality": {
+      "score": 0.0,
+      "reason": "The question lacks specific context about territorial integration applications and requires external knowledge to answer."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "The Actual Output correctly addresses the Input question by identifying the need to check historical records of territorial incorporation events (Part VII) and emphasizes the importance of specific notifications, aligning with Context item 24 and 7. No unsupported claims are present; all information is derived from the Context without external knowledge."
+    }
+  },
+  {
+    "index": 65,
+    "fingerprint": "c40661a136fa20646899df51a5f69d234c296058d93c9c5339847fc47c6c4825",
+    "input": "Summarize the key historical law amendments that have impacted citizenship by birth determination for individuals born decades ago.",
+    "family": "summary",
+    "question_quality": {
+      "score": 0.3,
+      "reason": "The question asks for historical law amendments impacting citizenship by birth determination, but lacks specific time frames, jurisdictions, or legal frameworks needed to answer without external knowledge."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "The Actual Output correctly addresses the Input question using Context details about Section 3, Section 5 categories, Section 6A/6B frameworks, and date-sensitive requirements. No claims are unsupported by Context, and there are no contradictions. All necessary Context information is used without external knowledge."
+    }
+  },
+  {
+    "index": 66,
+    "fingerprint": "4875dbcc825a76233c15fb46d39f43039e92738f8dbb338e5fd1008a9bb737ed",
+    "input": "How can specific territorial integration events and statutory conditions under Section 5 of the Citizenship Act determine eligibility for citizenship registration, including Indian origin, marriage to Indian citizens, minors, and other specified relationships?",
+    "family": "summary",
+    "question_quality": {
+      "score": 0.5,
+      "reason": "The question mentions specific legal provisions (Section 5 of the Citizenship Act) and specific groups (Indian origin, marriage to Indian citizens, minors), but it lacks the necessary context to determine eligibility without external knowledge, such as the exact statutory conditions or territorial integration events."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "The Actual Output correctly addresses the Input question by detailing Section 5 categories (Indian origin, marriage to Indian citizens, minors, etc.) and territorial integration requirements as per Context. It specifies that generic applications based on family residence alone are invalid (Context 24), aligns with statutory conditions requiring exact adherence (Context 15), and matches processing stages (Context 32). No unsupported claims or contradictions exist."
+    }
+  },
+  {
+    "index": 67,
+    "fingerprint": "77df91ccc604e3ccc49f43b959e8ace68ed6c0765cb276df54fa2b2976447ba5",
+    "input": "How can I analyze the territorial integration event and specific notification for citizenship claims based on historical residence to get a high-level overview?",
+    "family": "summary",
+    "question_quality": {
+      "score": 0.3,
+      "reason": "The question asks for a method to analyze territorial integration events and citizenship claims without providing specific context or constraints, requiring external knowledge for a 'high-level overview'."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "The Actual Output correctly addresses the Input question by referencing the Citizenship Act, territorial integration events, and specific notifications (e.g., 28 September 2026), aligning with Context entries like '24. Applicant takeaway' and '15. Section 5'. It avoids unsupported claims, uses all necessary Context information without external knowledge, and ensures no contradictions."
+    }
+  },
+  {
+    "index": 68,
+    "fingerprint": "25b576d9b6c80e802b0641ea9b87ca9879c0190fb4a66ca7cec093ac88d74111",
+    "input": "How can I get a high-level overview of Indian citizenship eligibility criteria and application processes across different categories, and what are the key processing stages involved in naturalisation and registration?",
+    "family": "summary",
+    "question_quality": {
+      "score": 1.0,
+      "reason": "The question asks for a high-level overview of Indian citizenship eligibility criteria and application processes across categories, which is specific. It also requests key processing stages for naturalisation and registration, which are clear. The question does not require external knowledge as it focuses on defined categories within Indian citizenship law."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "The Actual Output addresses the Input question by detailing eligibility criteria and processing stages, explicitly referencing the Allahabad High Court case (Nageshwar Mishra v. Union of India) from Context, and accurately describes processing stages matching Context's stage list. All claims are supported by Context without contradictions or external knowledge."
+    }
+  },
+  {
+    "index": 69,
+    "fingerprint": "18eea26b777a2959b4c1d1c5557799658ed3bf296cfec611f6a4da59e15ea3d8",
+    "input": "What are the seven key procedural stages in Indian citizenship registration as per case law?",
+    "family": "summary",
+    "question_quality": {
+      "score": 1.0,
+      "reason": "The input asks for specific procedural stages in Indian citizenship registration as per case law, which is a well-defined objective with clear context provided within the question itself. It does not require external knowledge or unstated assumptions, and avoids vague language by specifying 'as per case law' for clarity."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "Input asks for seven key procedural stages in Indian citizenship registration as per case law. Actual Output lists seven stages matching Context's '32. Possible processing stages' exactly, derived from Case 8.1 and Citizenship Rules. No unsupported claims or contradictions found."
+    }
+  },
+  {
+    "index": 70,
+    "fingerprint": "27eb8506c34ec18df06e1456997f4366c59d7aa517cfbe5b71cce0403e521fd1",
+    "input": "How do the Indian Citizenship Act registration categories differ, and what eligibility criteria apply to each category?",
+    "family": "summary",
+    "question_quality": {
+      "score": 0.0,
+      "reason": "The input asks about differences in Indian Citizenship Act registration categories and eligibility criteria, which requires external knowledge beyond the question itself (e.g., specific laws, rules), violating step 3."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "The Actual Output addresses the Input question by listing registration categories and eligibility criteria from the Context, such as Section 5 and specific cases (e.g., Supreme Court and Allahabad High Court cases). All claims are supported by Context references (e.g., 'Case 4.1', 'Case 8.1', Section 5, and Section 33). There are no contradictions, and the output uses necessary Context information without external knowledge."
+    }
+  },
+  {
+    "index": 71,
+    "fingerprint": "e33d6511614d92757bf761a3044e868008008467edd4d8c8016f036339ac84f8",
+    "input": "How can delays in Indian citizenship applications be addressed through verification, documentation, and legal remedies?",
+    "family": "summary",
+    "question_quality": {
+      "score": 0.2,
+      "reason": "The question asks about addressing delays in Indian citizenship applications through verification, documentation, and legal remedies without providing specific context or constraints, requiring external knowledge."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "Input question addresses delays in citizenship applications. Actual Output correctly references Context's guidance on verification, documentation, and legal remedies (e.g., RTI requests, writ petitions) without adding external knowledge. All claims (checking pending status, evidence, RTI, legal remedies) are explicitly supported by Context's 'What to do when the file is delayed' section. No contradictions exist between Output and Context."
+    }
+  },
+  {
+    "index": 72,
+    "fingerprint": "3cada5f8098b4f658ccecf0ca6a00b632c86bc222d918f87341b2595f278c722",
+    "input": "How can I get a high-level overview of the Nageshwar Mishra v. Union of India case in the Indian Kanoon case-law handbook, specifically which citizenship sections cover this ruling?",
+    "family": "summary",
+    "question_quality": {
+      "score": 1.0,
+      "reason": "The question asks for a high-level overview of a specific case and citizenship sections without ambiguity. It provides the case name and specifies the source (Indian Kanoon case-law handbook), so all necessary context is given."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "The Actual Output correctly identifies Part III of the Indian Kanoon handbook as covering citizenship by birth (Section 10 of Citizenship Act) for the Nageshwar Mishra v. Union of India case, aligning with Context entries that specify Part III as 'Cases on citizenship by birth' and 'Citizenship by birth'. The output uses Context to state the case is under Part III, which matches the Context. No unsupported claims are made; all information is from Context."
+    }
+  },
+  {
+    "index": 73,
+    "fingerprint": "ac00081aa593b5c381a37f5fdd3085a6a6fee45a4cff766c825fdec1c5795092",
+    "input": "How does the handbook categorize citizenship routes through its structured sections on birth, descent, registration, naturalisation, OCI, and administrative procedures?",
+    "family": "summary",
+    "question_quality": {
+      "score": 0.0,
+      "reason": "The question asks about a handbook's categorization of citizenship routes, which requires external knowledge of specific handbooks or jurisdictional details not provided in the question."
+    },
+    "answer_grounding": {
+      "score": 1.0,
+      "reason": "The Actual Output correctly addresses the Input question by categorizing citizenship routes per the Context's Part III (birth), Part IV (descent), Part V (registration), Part VI (naturalisation), Part IX (administrative procedures), and integrates procedural workflows from the Context's Part IX and other sections without external knowledge. No unsupported claims or contradictions found."
+    }
+  }
+]

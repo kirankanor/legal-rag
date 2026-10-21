@@ -1,0 +1,38 @@
+[
+  {
+    "index": 0,
+    "fingerprint": "0664d5fe08951d497bec8d927181a8138e8c3389091a2be6520df5bb271dd009",
+    "input": "How does the Supreme Court's ruling on citizenship revocation under Section 8(2) affect statutory residency requirements, and what are the key implications for individuals under this provision?",
+    "family": "single",
+    "top_k": 3,
+    "retrieved_contexts": [
+      "Decision / holding\nThe Supreme Court set aside the High Court decisions and held that the claimant had not resumed Indian citizenship under Section 8(2). It emphasized that citizenship cannot be conferred by departing from the plain statutory requirements. The judgment left open the possibility of applying under Section 5(1)(f), subject to its twelve-month ordinary-residence requirement and the Central Government's statutory relaxation power in special circumstances.",
+      "39. Renunciation - Section 8\nA citizen of full age and capacity who is also a citizen/national of another country can renounce Indian citizenship by making the prescribed declaration. The statutory consequences extend to certain minor children, subject to the Act and the ability to resume citizenship on attaining full age under the conditions specified by law.",
+      "Legal issues\n- 1 Whether a court could simply disregard an existing citizenship registration order.\n- 2 What statutory mechanisms existed for termination or deprivation."
+    ],
+    "generated_answer": "**Effect on the statutory residency requirement**\n\nThe Supreme Court held that the claimant had **not** resumed Indian citizenship under **Section 8(2)** of the Citizenship Act.  By doing so, the Court made clear that a person cannot be deemed to have regained citizenship merely by “departing from the plain statutory requirements.”  Consequently, the **twelve‑month ordinary‑residence condition** that is built into **Section 5(1)(f)** remains the operative gateway for anyone who wishes to acquire (or reacquire) Indian citizenship after having renounced it.\n\n**Key implications for individuals**\n\n1. **Section 8(2) does not confer citizenship automatically** – A former citizen who has renounced Indian citizenship under Section 8 cannot rely on Section 8(2) to have his/her citizenship revived.  The revocation stands until the person satisfies a separate statutory route.\n\n2. **Residency requirement must be met under Section 5(1)(f)** – To regain citizenship, the individual must apply under Section 5(1)(f) and satisfy the **twelve‑month ordinary‑residence** rule.  The Court’s judgment leaves this requirement intact.\n\n3. **Possibility of statutory relaxation** – The Central Government retains the power to relax the twelve‑month residence condition in “special circumstances,” as provided by the Act.  Thus, while the default rule is a year of residence, an exception can be granted at the Government’s discretion.\n\n4. **Renunciation process remains unchanged** – A citizen of full age and capacity who is also a citizen of another country may still renounce Indian citizenship by making the prescribed declaration under Section 8.  The consequences of that renunciation extend to certain minor children, but those children (and the adult) may later seek to resume citizenship only by complying with the statutory mechanisms (e.g., Section 5(1)(f)).\n\n5. **Future eligibility** – Once the individual reaches full age, the law allows a **resumption of citizenship** only if the conditions laid down in the Act (including the residency requirement) are satisfied.\n\nIn sum, the Supreme Court’s ruling means that **Section 8(2) does not bypass the residency condition**; anyone wishing to regain Indian citizenship after renunciation must still fulfill the twelve‑month ordinary‑residence rule of Section 5(1)(f), subject to any Government‑granted relaxation.",
+    "retrieval_recall_at_k": null,
+    "metrics": {
+      "contextual_recall": {
+        "score": 1.0,
+        "reason": "The score is 1.00 because the 1st node in retrieval context fully supports the expected output's 1st sentence (citizenship under Section 8(2)) and 2nd sentence (Section 5(1)(f) application requirements), with no unsupportive reasons detected."
+      },
+      "faithfulness": {
+        "score": 1.0,
+        "reason": "The faithfulness score is 1.00 because there are no contradictions between the actual output and the retrieval context, meaning the output perfectly aligns with the provided information."
+      },
+      "answer_relevancy": {
+        "score": 1.0,
+        "reason": "The score is 1.00 because there are no irrelevant statements in the actual output, making it fully relevant to the input question about the Supreme Court's ruling on citizenship revocation and statutory residency requirements."
+      },
+      "answer_correctness": {
+        "score": 1.0,
+        "reason": "Actual Output accurately reflects Expected Output by matching key points: Section 8(2) not reviving citizenship, twelve-month residency requirement under Section 5(1)(f), statutory relaxation possibility, and unchanged renunciation process. No extraneous details added."
+      },
+      "citation_correctness": {
+        "score": 1.0,
+        "reason": "The Actual Output cites Section 8(2), Section 5(1)(f), and other references that all appear in the Retrieval Context. The Retrieval Context supports each claim: Section 8(2) is mentioned in the first context entry, Section 5(1)(f) is referenced in the first context entry, and the renunciation process under Section 8 is covered in the second context entry. No unsupported or contradicted references are found."
+      }
+    }
+  }
+]

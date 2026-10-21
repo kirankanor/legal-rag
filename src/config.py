@@ -30,7 +30,6 @@ class Settings(BaseSettings):
     qdrant_mode: Literal["embedded", "server"] = "embedded"
     qdrant_path: str = "./data/qdrant"
     qdrant_url: str = "http://localhost:6333"
-    collection_name: str = "legal_docs"
     chunk_size: int = 500
 
 

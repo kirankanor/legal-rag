@@ -5,6 +5,8 @@ description = "RAG for indian citizenship legal firm"
 requires-python = ">=3.12"
 
 dependencies = [
+    #Evaluation
+    "deepeval",
     # LangChain & LLM
     "langchain",
     "langchain-groq",
@@ -20,13 +22,5 @@ dependencies = [
     "ipykernel>=7.4.0",
     "langchain-community>=0.4.2",
     "transformers>=5.19.0",
+    "groq>=0.37.1",
 ]
-
-[tool.uv.workspace]
-members = [
-    "tools/raglens",
-]
-
-[tool.uv.sources]
-raglens-parser-chunker-lab = { workspace = true, editable = true }
-

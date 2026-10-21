@@ -1,0 +1,1241 @@
+[
+  {
+    "input": "How does the Supreme Court's ruling on citizenship revocation under Section 8(2) affect statutory residency requirements, and what are the key implications for individuals under this provision?",
+    "expected_output": "The Supreme Court ruled that the claimant did not resume Indian citizenship under Section 8(2), emphasizing that citizenship cannot be conferred by departing from statutory requirements. It left open the possibility of applying under Section 5(1)(f), but individuals must satisfy the twelve-month ordinary-residence requirement and may seek statutory relaxation under the Central Government's power in special circumstances.",
+    "context": [
+      "Decision / holding. The Supreme Court set aside the High Court decisions and held that the claimant had not resumed Indian citizenship under Section 8(2). It emphasized that citizenship cannot be conferred by departing from the plain statutory requirements. The judgment left open the possibility of applying under Section 5(1)(f), subject to its twelve-month ordinary-residence requirement and the Central Government's statutory relaxation power in special circumstances."
+    ],
+    "sources": [
+      "cases"
+    ],
+    "family": "single",
+    "batch_id": "single-0",
+    "additional_metadata": {
+      "evolutions": [
+        "In-Breadth"
+      ],
+      "synthetic_input_quality": 0.8
+    },
+    "source_file": null
+  },
+  {
+    "input": "Does the judgment permit Section 5(1)(f) applications with the twelve-month residence requirement under Central Government relaxation?",
+    "expected_output": "Yes, the judgment permits Section 5(1)(f) applications with the twelve-month residence requirement, subject to the Central Government's statutory relaxation power in special circumstances.",
+    "context": [
+      "Decision / holding. The Supreme Court set aside the High Court decisions and held that the claimant had not resumed Indian citizenship under Section 8(2). It emphasized that citizenship cannot be conferred by departing from the plain statutory requirements. The judgment left open the possibility of applying under Section 5(1)(f), subject to its twelve-month ordinary-residence requirement and the Central Government's statutory relaxation power in special circumstances."
+    ],
+    "sources": [
+      "cases"
+    ],
+    "family": "single",
+    "batch_id": "single-0",
+    "additional_metadata": {
+      "evolutions": [
+        "Reasoning"
+      ],
+      "synthetic_input_quality": 0.7
+    },
+    "source_file": null
+  },
+  {
+    "input": "How might a Section 5 application be affected if adverse police/security material contradicts the statutory setting?",
+    "expected_output": "A Section 5 application may be affected if adverse police/security material contradicts the statutory setting, as the case highlights the interaction between Section 5 applications and such material, indicating potential challenges to the statutory setting.",
+    "context": [
+      "Decision / holding. The order records the challenge to the rejection and the statutory setting. The case is particularly relevant to the interaction between Section 5 applications and adverse police/security material."
+    ],
+    "sources": [
+      "cases"
+    ],
+    "family": "single",
+    "batch_id": "single-1",
+    "additional_metadata": {
+      "evolutions": [
+        "Hypothetical"
+      ],
+      "synthetic_input_quality": 0.7
+    },
+    "source_file": null
+  },
+  {
+    "input": "How might the case's interaction with Section 5 applications be altered by adverse police/security material?",
+    "expected_output": "The case highlights that adverse police/security material can impact Section 5 applications by potentially invalidating them if it demonstrates a significant risk of harm to the applicant, thereby affecting the statutory setting under which the challenge is made.",
+    "context": [
+      "Decision / holding. The order records the challenge to the rejection and the statutory setting. The case is particularly relevant to the interaction between Section 5 applications and adverse police/security material."
+    ],
+    "sources": [
+      "cases"
+    ],
+    "family": "single",
+    "batch_id": "single-1",
+    "additional_metadata": {
+      "evolutions": [
+        "Hypothetical"
+      ],
+      "synthetic_input_quality": 0.7
+    },
+    "source_file": null
+  },
+  {
+    "input": "How did the High Court rule on the petitioner's citizenship acquisition under Section 4, considering it could not be treated as a voluntary act when she was a minor?",
+    "expected_output": "The High Court set aside the challenged determination and directed reconsideration, noting that the petitioner was covered by Section 4 and that acquisition of Singapore citizenship while she was a minor could not be treated as a voluntary act.",
+    "context": [
+      "Decision / holding. The High Court set aside the challenged determination and directed reconsideration, noting the finding that the petitioner was covered by Section 4 and that acquisition of Singapore citizenship while she was a minor could not simply be treated as her voluntary act."
+    ],
+    "sources": [
+      "cases"
+    ],
+    "family": "single",
+    "batch_id": "single-2",
+    "additional_metadata": {
+      "evolutions": [
+        "Constrained"
+      ],
+      "synthetic_input_quality": 0.8
+    },
+    "source_file": null
+  },
+  {
+    "input": "How did the High Court determine that the petitioner's acquisition of Singapore citizenship as a minor was not a voluntary act?",
+    "expected_output": "The High Court determined that the petitioner's acquisition of Singapore citizenship as a minor was not a voluntary act because, under Section 4, she was covered by the provision, and such acquisition could not be treated as her voluntary act.",
+    "context": [
+      "Decision / holding. The High Court set aside the challenged determination and directed reconsideration, noting the finding that the petitioner was covered by Section 4 and that acquisition of Singapore citizenship while she was a minor could not simply be treated as her voluntary act."
+    ],
+    "sources": [
+      "cases"
+    ],
+    "family": "single",
+    "batch_id": "single-2",
+    "additional_metadata": {
+      "evolutions": [
+        "Concretizing"
+      ],
+      "synthetic_input_quality": 0.7
+    },
+    "source_file": null
+  },
+  {
+    "input": "What is the URL of the Supreme Court judgment for the case identified in the primary source [21809_2023_6_1502_56499_Judgement_18-Oct-2024.pdf]?",
+    "expected_output": "The URL of the Supreme Court judgment for the case is https://api.sci.gov.in/supremecourt/2023/21809/21809_2023_6_1502_56499_Judgement_18-Oct-2024.pdf.",
+    "context": [
+      "Primary source. [https://api.sci.gov.in/supremecourt/2023/21809/21809_2023_6_1502_56499_Judgement_18-Oct-2024.pdf](https://api.sci.gov.in/supremecourt/2023/21809/21809_2023_6_1502_56499_Judgement_18-Oct-2024.pdf)"
+    ],
+    "sources": [
+      "cases"
+    ],
+    "family": "single",
+    "batch_id": "single-2",
+    "additional_metadata": {
+      "evolutions": [
+        "Constrained"
+      ],
+      "synthetic_input_quality": 0.8
+    },
+    "source_file": null
+  },
+  {
+    "input": "How do passport surrender procedures differ from citizenship acquisition under Indian legal frameworks?",
+    "expected_output": "Under Indian law, passport surrender and citizenship acquisition are distinct legal matters. Passport surrender involves formal procedures for canceling or surrendering a passport, while citizenship acquisition relates to obtaining citizenship status under Section 9 of the law. They require separate records and formalities to ensure clarity and compliance.",
+    "context": [
+      "42. Passport surrender is not the same legal question as citizenship. When a person acquires foreign citizenship, the citizenship consequence under Section 9 and the passport consequences under passport law are related but distinct legal questions. Keep separate records for citizenship status, foreign nationality, Indian passport status and surrender/cancellation formalities."
+    ],
+    "sources": [
+      "indian_citizenship_guide"
+    ],
+    "family": "single",
+    "batch_id": "single-2",
+    "additional_metadata": {
+      "evolutions": [
+        "Reasoning"
+      ],
+      "synthetic_input_quality": 1.0
+    },
+    "source_file": null
+  },
+  {
+    "input": "If a person gains foreign citizenship, should separate records be kept for citizenship and passport surrender formalities?",
+    "expected_output": "Yes, separate records should be kept for citizenship status and passport surrender formalities as they are distinct legal questions under Section 9 and passport law.",
+    "context": [
+      "42. Passport surrender is not the same legal question as citizenship. When a person acquires foreign citizenship, the citizenship consequence under Section 9 and the passport consequences under passport law are related but distinct legal questions. Keep separate records for citizenship status, foreign nationality, Indian passport status and surrender/cancellation formalities."
+    ],
+    "sources": [
+      "indian_citizenship_guide"
+    ],
+    "family": "single",
+    "batch_id": "single-2",
+    "additional_metadata": {
+      "evolutions": [
+        "Hypothetical"
+      ],
+      "synthetic_input_quality": 0.7
+    },
+    "source_file": null
+  },
+  {
+    "input": "How does the Indian citizenship application process determine if someone is already a citizen?",
+    "expected_output": "The Indian citizenship application process determines if someone is already a citizen by establishing whether they are an Indian citizen under birth, descent, or another statutory provision. Possession or absence of an Indian passport does not automatically confer citizenship, so the process checks legal status through documentation and statutory requirements rather than passport ownership.",
+    "context": [
+      "2. The first applicant decision tree. - 1 Establish whether you are already an Indian citizen under birth, descent or another provision. Do not assume that possession or absence of an Indian passport itself creates citizenship. - 2 If you are not already a citizen, identify the statutory route: registration, naturalisation, or a special provision such as Section 6B where applicable. - 3 Check exclusions before preparing the application. Illegal-migrant provisions, foreign-citizenship rules, document deficiencies and category-specific conditions can change the result. - 4 Build evidence around the legal test. Collect documents that prove the facts the statute or rules actually require. - 5 Submit the correct form through the current government process and preserve the acknowledgement and every uploaded document. - 6 Expect verification or inquiry where the applicable process requires it. A citizenship certificate is not issued merely because an applicant submits a form. - 7 If delayed or rejected, identify the legal reason first. Then use the appropriate administrative or judicial remedy."
+    ],
+    "sources": [
+      "indian_citizenship_guide"
+    ],
+    "family": "single",
+    "batch_id": "single-3",
+    "additional_metadata": {
+      "evolutions": [
+        "Reasoning"
+      ],
+      "synthetic_input_quality": 1.0
+    },
+    "source_file": null
+  },
+  {
+    "input": "How do Indian citizenship rules require specific evidence collection to establish eligibility through statutory pathways?",
+    "expected_output": "Indian citizenship rules require specific evidence collection to establish eligibility through statutory pathways by building evidence around the legal test. This involves collecting documents that prove the facts the statute or rules actually require, such as proof of birth, descent, or other statutory grounds, while avoiding assumptions about citizenship based solely on passport possession. The process must adhere to the statutory route (registration, naturalisation, or special provisions like Section 6B), check for exclusions like illegal-migrant provisions or foreign-citizenship rules, and ensure all documents are submitted correctly through the current government process.",
+    "context": [
+      "2. The first applicant decision tree. - 1 Establish whether you are already an Indian citizen under birth, descent or another provision. Do not assume that possession or absence of an Indian passport itself creates citizenship. - 2 If you are not already a citizen, identify the statutory route: registration, naturalisation, or a special provision such as Section 6B where applicable. - 3 Check exclusions before preparing the application. Illegal-migrant provisions, foreign-citizenship rules, document deficiencies and category-specific conditions can change the result. - 4 Build evidence around the legal test. Collect documents that prove the facts the statute or rules actually require. - 5 Submit the correct form through the current government process and preserve the acknowledgement and every uploaded document. - 6 Expect verification or inquiry where the applicable process requires it. A citizenship certificate is not issued merely because an applicant submits a form. - 7 If delayed or rejected, identify the legal reason first. Then use the appropriate administrative or judicial remedy."
+    ],
+    "sources": [
+      "indian_citizenship_guide"
+    ],
+    "family": "single",
+    "batch_id": "single-3",
+    "additional_metadata": {
+      "evolutions": [
+        "Reasoning"
+      ],
+      "synthetic_input_quality": 1.0
+    },
+    "source_file": null
+  },
+  {
+    "input": "How does Section 7D's requirement for a hearing opportunity interact with foreigner-control laws in OCI cancellation?",
+    "expected_output": "Section 7D requires a reasonable opportunity of being heard before an adverse cancellation order in OCI registration, and recent litigation has examined how this interacts with foreigner-control laws, which may affect the grounds for cancellation.",
+    "context": [
+      "38. OCI cancellation. Section 7D governs cancellation of OCI registration on specified grounds. The proviso requires a reasonable opportunity of being heard before an adverse cancellation order. Recent litigation has examined the interaction between Section 7D and action under foreigner-control laws."
+    ],
+    "sources": [
+      "indian_citizenship_guide"
+    ],
+    "family": "single",
+    "batch_id": "single-3",
+    "additional_metadata": {
+      "evolutions": [
+        "Reasoning"
+      ],
+      "synthetic_input_quality": 0.8
+    },
+    "source_file": null
+  },
+  {
+    "input": "How does Section 7D function within OCI cancellation procedures under foreigner-control laws and what hearing rights are associated with this section?",
+    "expected_output": "Section 7D governs OCI cancellation on specified grounds and requires a reasonable opportunity of hearing before an adverse cancellation order. Recent litigation has addressed its interaction with foreigner-control laws, indicating that hearing rights are protected under this provision.",
+    "context": [
+      "38. OCI cancellation. Section 7D governs cancellation of OCI registration on specified grounds. The proviso requires a reasonable opportunity of being heard before an adverse cancellation order. Recent litigation has examined the interaction between Section 7D and action under foreigner-control laws."
+    ],
+    "sources": [
+      "indian_citizenship_guide"
+    ],
+    "family": "single",
+    "batch_id": "single-3",
+    "additional_metadata": {
+      "evolutions": [
+        "In-Breadth"
+      ],
+      "synthetic_input_quality": 0.7
+    },
+    "source_file": null
+  },
+  {
+    "input": "Which companion document provides precedent for birth, descent, registration, foreign citizenship, OCI, administrative delays, and deprivation in Indian citizenship cases?",
+    "expected_output": "The companion document that provides precedent for birth, descent, registration, foreign citizenship, OCI, administrative delays, and deprivation in Indian citizenship cases is the 'Indian Citizenship Case Law: Applicant-Focused Precedent Handbook.'",
+    "context": [
+      "50. Cross-reference to PDF-2. For precedent on birth, descent, registration, foreign citizenship, OCI, administrative delay and deprivation, use the companion document: \"Indian Citizenship Case Law: Applicant-Focused Precedent Handbook.\""
+    ],
+    "sources": [
+      "indian_citizenship_guide"
+    ],
+    "family": "single",
+    "batch_id": "single-3",
+    "additional_metadata": {
+      "evolutions": [
+        "Constrained"
+      ],
+      "synthetic_input_quality": 0.7
+    },
+    "source_file": null
+  },
+  {
+    "input": "How should the Indian Citizenship Case Law: Applicant-Focused Precedent Handbook be cross-referenced for addressing administrative delays and deprivation issues?",
+    "expected_output": "The Indian Citizenship Case Law: Applicant-Focused Precedent Handbook should be cross-referenced with PDF-2 for addressing administrative delays and deprivation issues, as per the context provided.",
+    "context": [
+      "50. Cross-reference to PDF-2. For precedent on birth, descent, registration, foreign citizenship, OCI, administrative delay and deprivation, use the companion document: \"Indian Citizenship Case Law: Applicant-Focused Precedent Handbook.\""
+    ],
+    "sources": [
+      "indian_citizenship_guide"
+    ],
+    "family": "single",
+    "batch_id": "single-3",
+    "additional_metadata": {
+      "evolutions": [
+        "Constrained"
+      ],
+      "synthetic_input_quality": 0.7
+    },
+    "source_file": null
+  },
+  {
+    "input": "What specific residence evidence is required for naturalisation applications under the document matrix rules?",
+    "expected_output": "Residence evidence required for naturalisation applications includes residence records and other evidence relevant to the applicable rule, as per the document matrix.",
+    "context": [
+      "29. Document matrix. Identity, Examples of evidence = Passport, national identity document, other accepted identity evidence. Birth/place, Examples of evidence = Birth certificate, consular birth record, authoritative civil record. Parentage, Examples of evidence = Birth record, parent documents, marriage/parentage records. Residence, Examples of evidence = Residence records and other evidence relevant to the applicable rule. Indian citizenship of parent, Examples of evidence = Indian passport/citizenship certificate/official records. Marriage, Examples of evidence = Valid marriage certificate and supporting records. Immigration status, Examples of evidence = Visa/residence permit/registration records. Foreign citizenship, Examples of evidence = Foreign passport, naturalisation/citizenship certificate, nationality records. Language, Examples of evidence = Evidence required by the applicable naturalisation rule"
+    ],
+    "sources": [
+      "indian_citizenship_guide"
+    ],
+    "family": "single",
+    "batch_id": "single-4",
+    "additional_metadata": {
+      "evolutions": [
+        "In-Breadth"
+      ],
+      "synthetic_input_quality": 0.8
+    },
+    "source_file": null
+  },
+  {
+    "input": "How does the Indian Citizenship Act define descent-based citizenship qualification, including the specific conditions under which an individual can claim citizenship through an Indian parent born abroad?",
+    "expected_output": "The Indian Citizenship Act defines descent-based citizenship through Section 4, which states that a person born abroad to an Indian parent who was a citizen at the time of birth is eligible for citizenship by descent. The specific condition for claiming citizenship through an Indian parent born abroad is that the parent must have been an Indian citizen when the individual was born abroad.",
+    "context": [
+      "1. The five general acquisition routes. Birth, Where to look = Section 3. Birth, Typical applicant question = Was I already a citizen because I was born in India?. Descent, Where to look = Section 4. Descent, Typical applicant question = Was I a citizen because an Indian parent was a citizen when I was born abroad?. Registration, Where to look = Section 5. Registration, Typical applicant question = Do I qualify for citizenship because of Indian origin, marriage, former citizenship, parentage o. Naturalisation, Where to look = Section 6 + Third Schedule. Naturalisation, Typical applicant question = Can I obtain citizenship after satisfying the statutory residence and other conditions?. Incorporation of territory, Where to look = Section 7. Incorporation of territory, Typical applicant question = Did a territory become part of India and does a notification cover me?. Special Section 6B route, Where to look = Section 6B + Rules/Orders. Special Section 6B route, Typical applicant question = Do I fall within the special category created by the Citizenship Amendment Act framework?"
+    ],
+    "sources": [
+      "indian_citizenship_guide"
+    ],
+    "family": "single",
+    "batch_id": "single-4",
+    "additional_metadata": {
+      "evolutions": [
+        "Concretizing"
+      ],
+      "synthetic_input_quality": 0.8
+    },
+    "source_file": null
+  },
+  {
+    "input": "How do Section 6 and the Third Schedule of the Citizenship Act address naturalisation requirements for applicants with Indian parentage?",
+    "expected_output": "Section 6 of the Citizenship Act and the Third Schedule address naturalisation requirements by specifying that an applicant must satisfy statutory residence conditions and other criteria to obtain citizenship through naturalisation. The Third Schedule provides the list of eligible applicants for naturalisation, including those with Indian parentage who meet the residency and other conditions outlined in Section 6.",
+    "context": [
+      "1. The five general acquisition routes. Birth, Where to look = Section 3. Birth, Typical applicant question = Was I already a citizen because I was born in India?. Descent, Where to look = Section 4. Descent, Typical applicant question = Was I a citizen because an Indian parent was a citizen when I was born abroad?. Registration, Where to look = Section 5. Registration, Typical applicant question = Do I qualify for citizenship because of Indian origin, marriage, former citizenship, parentage o. Naturalisation, Where to look = Section 6 + Third Schedule. Naturalisation, Typical applicant question = Can I obtain citizenship after satisfying the statutory residence and other conditions?. Incorporation of territory, Where to look = Section 7. Incorporation of territory, Typical applicant question = Did a territory become part of India and does a notification cover me?. Special Section 6B route, Where to look = Section 6B + Rules/Orders. Special Section 6B route, Typical applicant question = Do I fall within the special category created by the Citizenship Amendment Act framework?"
+    ],
+    "sources": [
+      "indian_citizenship_guide"
+    ],
+    "family": "single",
+    "batch_id": "single-4",
+    "additional_metadata": {
+      "evolutions": [
+        "Concretizing"
+      ],
+      "synthetic_input_quality": 0.8
+    },
+    "source_file": null
+  },
+  {
+    "input": "How many specific processing stages exist for a naturalisation application, including submission and acknowledgement, initial scrutiny for completeness, document verification, police/security inquiry, clarification requests, statutory eligibility assessment, oath of allegiance, and final grant or rejection?",
+    "expected_output": "The context lists 8 specific processing stages for a naturalisation application: 1 Submission and acknowledgement, 2 Initial scrutiny for completeness, 3 Document verification, 4 Police/security or other inquiry where applicable, 5 Clarification or deficiency request, . 6 Assessment of statutory eligibility and suitability, 7 Oath of allegiance where required, and 8 Grant of registration/naturalisation certificate, or rejection/other decision.",
+    "context": [
+      "32. Possible processing stages. - 1 Submission and acknowledgement. - 2 Initial scrutiny for completeness. - 3 Document verification. - 4 Police/security or other inquiry where applicable. - 5 Clarification or deficiency request. - 6 Assessment of statutory eligibility and suitability. - 7 Oath of allegiance where required. - 8 Grant of registration/naturalisation certificate, or rejection/other decision."
+    ],
+    "sources": [
+      "indian_citizenship_guide"
+    ],
+    "family": "single",
+    "batch_id": "single-4",
+    "additional_metadata": {
+      "evolutions": [
+        "Concretizing"
+      ],
+      "synthetic_input_quality": 0.9
+    },
+    "source_file": null
+  },
+  {
+    "input": "How does document verification progress to the next stage in naturalisation processing?",
+    "expected_output": "Document verification in naturalisation processing typically progresses to the next stage (Stage 3) after successful completion of Stage 2 (Initial scrutiny for completeness). If the documents are verified without issues, the process moves to Stage 4 (Police/security or other inquiry where applicable). If there are deficiencies, Stage 5 (Clarification or deficiency request) may be initiated before proceeding to Stage 6 (Assessment of statutory eligibility and suitability).",
+    "context": [
+      "32. Possible processing stages. - 1 Submission and acknowledgement. - 2 Initial scrutiny for completeness. - 3 Document verification. - 4 Police/security or other inquiry where applicable. - 5 Clarification or deficiency request. - 6 Assessment of statutory eligibility and suitability. - 7 Oath of allegiance where required. - 8 Grant of registration/naturalisation certificate, or rejection/other decision."
+    ],
+    "sources": [
+      "indian_citizenship_guide"
+    ],
+    "family": "single",
+    "batch_id": "single-4",
+    "additional_metadata": {
+      "evolutions": [
+        "Reasoning"
+      ],
+      "synthetic_input_quality": 0.8
+    },
+    "source_file": null
+  },
+  {
+    "input": "How does Section 7 of the citizenship acquisition rules apply to territories joining India, and what are the specific order specifications and effective dates for this process?",
+    "expected_output": "Section 7 of the citizenship acquisition rules allows the Central Government to specify by order the persons who become citizens and the effective date when territory becomes part of India. This process requires identifying relevant territorial legislation or orders first, as it is not an ordinary individual application route.",
+    "context": [
+      "23. Section 7. Section 7 deals with citizenship where territory becomes part of India. The Central Government may specify by order the persons who will become citizens and the effective date. This is not an ordinary individual application route; the relevant territorial legislation/order must first be identified."
+    ],
+    "sources": [
+      "indian_citizenship_guide"
+    ],
+    "family": "single",
+    "batch_id": "single-5",
+    "additional_metadata": {
+      "evolutions": [
+        "In-Breadth"
+      ],
+      "synthetic_input_quality": 0.8
+    },
+    "source_file": null
+  },
+  {
+    "input": "If a territory joins India under Section 7, how would the Central Government's specified order determine citizenship eligibility and effective dates?",
+    "expected_output": "Under Section 7, the Central Government specifies by order the persons who become citizens and the effective date of citizenship for territories joining India. This order must be identified first, and it is not an individual application route.",
+    "context": [
+      "23. Section 7. Section 7 deals with citizenship where territory becomes part of India. The Central Government may specify by order the persons who will become citizens and the effective date. This is not an ordinary individual application route; the relevant territorial legislation/order must first be identified."
+    ],
+    "sources": [
+      "indian_citizenship_guide"
+    ],
+    "family": "single",
+    "batch_id": "single-5",
+    "additional_metadata": {
+      "evolutions": [
+        "Hypothetical"
+      ],
+      "synthetic_input_quality": 0.7
+    },
+    "source_file": null
+  },
+  {
+    "input": "How does Section ... differ from standard Section ... applications under the Citizenship Act, 1955?",
+    "expected_output": "Section 6A creates special provisions for persons covered by the Assam Accord framework, with distinct dates, migration categories, and registration requirements compared to standard Section 5/6 applications under the Citizenship Act, 1955. The Supreme Court has addressed constitutional and statutory questions regarding Section 6A, including in the 2024 decision in In Re: Section 6A of the Citizenship Act, 1955.",
+    "context": [
+      "Legal issues. - 1 Whether Section 6A was constitutionally valid. - 2 How the statutory citizenship framework interacted with the Assam Accord and constitutional provisions.",
+      "25. Section 6A - Assam Accord framework. Section 6A creates special provisions for persons covered by the Assam Accord framework. Its dates, migration categories and registration requirements are distinct from ordinary Section 5/6 applications. The Supreme Court has considered constitutional and statutory questions concerning Section 6A, including in the 2024 decision in In Re: Section 6A of the Citizenship Act, 1955."
+    ],
+    "sources": [
+      "cases",
+      "indian_citizenship_guide"
+    ],
+    "family": "cross",
+    "batch_id": "cross-0",
+    "additional_metadata": {
+      "evolutions": [
+        "Multi-context"
+      ],
+      "synthetic_input_quality": 0.7
+    },
+    "source_file": null
+  },
+  {
+    "input": "How does Section 6A's distinct framework interact with constitutional validity and the Assam Accord?",
+    "expected_output": "Section 6A's distinct framework interacts with constitutional validity and the Assam Accord through its specific migration categories, registration requirements, and dates, which are separate from ordinary Section 5/6 applications. The Supreme Court has addressed constitutional and statutory questions regarding Section 6A, including in the 202 4 decision in In Re: Section 6A of the Citizenship Act, 1955, confirming its validity within the Assam Accord framework.",
+    "context": [
+      "Legal issues. - 1 Whether Section 6A was constitutionally valid. - 2 How the statutory citizenship framework interacted with the Assam Accord and constitutional provisions.",
+      "25. Section 6A - Assam Accord framework. Section 6A creates special provisions for persons covered by the Assam Accord framework. Its dates, migration categories and registration requirements are distinct from ordinary Section 5/6 applications. The Supreme Court has considered constitutional and statutory questions concerning Section 6A, including in the 2024 decision in In Re: Section 6A of the Citizenship Act, 1955."
+    ],
+    "sources": [
+      "cases",
+      "indian_citizenship_guide"
+    ],
+    "family": "cross",
+    "batch_id": "cross-0",
+    "additional_metadata": {
+      "evolutions": [
+        "Multi-context"
+      ],
+      "synthetic_input_quality": 0.7
+    },
+    "source_file": null
+  },
+  {
+    "input": "How does Section 7D's OCI cancellation process interact with foreigner-law actions under the Indian legal framework?",
+    "expected_output": "Section 7D of the OCI registration rules requires a reasonable opportunity of hearing before cancellation, which interacts with foreigner-law actions by ensuring OCI cardholders, who are not Indian citizens, remain subject to foreigner law. Recent litigation has examined this relationship to address statutory compliance.",
+    "context": [
+      "Decision / holding. The judgment emphasized that OCI cardholders are not Indian citizens and can remain subject to foreigner law. It also addressed the statutory requirement of a reasonable opportunity of hearing before cancellation under Section 7D and the relationship between OCI cancellation and foreigner-law action.",
+      "38. OCI cancellation. Section 7D governs cancellation of OCI registration on specified grounds. The proviso requires a reasonable opportunity of being heard before an adverse cancellation order. Recent litigation has examined the interaction between Section 7D and action under foreigner-control laws."
+    ],
+    "sources": [
+      "cases",
+      "indian_citizenship_guide"
+    ],
+    "family": "cross",
+    "batch_id": "cross-0",
+    "additional_metadata": {
+      "evolutions": [
+        "Comparative"
+      ],
+      "synthetic_input_quality": 0.7
+    },
+    "source_file": null
+  },
+  {
+    "input": "How does Section 7D's reasonable hearing requirement interact with foreigner-law actions for OCI cardholders, and what specific legal provisions might apply to this situation?",
+    "expected_output": "Section 7D requires a reasonable opportunity of hearing before adverse cancellation of OCI registration, which recent litigation has examined in relation to foreigner-law actions. The judgment clarifies that OCI cardholders are not Indian citizens and remain subject to foreigner law, meaning Section 7D's hearing requirement interacts with foreign as the legal framework for OCI cancellation under foreigner-control laws applies, with the proviso ensuring a hearing before cancellation.",
+    "context": [
+      "Decision / holding. The judgment emphasized that OCI cardholders are not Indian citizens and can remain subject to foreigner law. It also addressed the statutory requirement of a reasonable opportunity of hearing before cancellation under Section 7D and the relationship between OCI cancellation and foreigner-law action.",
+      "38. OCI cancellation. Section 7D governs cancellation of OCI registration on specified grounds. The proviso requires a reasonable opportunity of being heard before an adverse cancellation order. Recent litigation has examined the interaction between Section 7D and action under foreigner-control laws."
+    ],
+    "sources": [
+      "cases",
+      "indian_citizenship_guide"
+    ],
+    "family": "cross",
+    "batch_id": "cross-0",
+    "additional_metadata": {
+      "evolutions": [
+        "Comparative"
+      ],
+      "synthetic_input_quality": 0.7
+    },
+    "source_file": null
+  },
+  {
+    "input": "How does the Supreme Court's decision differentiate OCI holders' admission policies from Indian citizens' rights?",
+    "expected_output": "The Supreme Court differentiated OCI holders' admission policies from Indian citizens' rights by upholding that OCI is a statutory status distinct from citizenship. This decision explicitly states that OCI cardholders are not Indian citizens and do not receive automatic parity with citizens for admission issues, as the policy framework does not grant them equal rights in education and other areas.",
+    "context": [
+      "Decision / holding. The Supreme Court treated OCI as a statutory status distinct from citizenship and upheld the policy framework that did not grant OCI holders automatic parity with Indian citizens for the relevant admission issue.",
+      "36. OCI is not dual citizenship. The Citizenship Act treats OCI as a separate statutory status. OCI cardholders are not Indian citizens and do not receive all rights reserved for citizens. The Supreme Court has described OCI as a distinct statutory status and has upheld policy distinctions between OCI holders and citizens in areas such as education."
+    ],
+    "sources": [
+      "cases",
+      "indian_citizenship_guide"
+    ],
+    "family": "cross",
+    "batch_id": "cross-0",
+    "additional_metadata": {
+      "evolutions": [
+        "Comparative"
+      ],
+      "synthetic_input_quality": 0.7
+    },
+    "source_file": null
+  },
+  {
+    "input": "Does OCI status confer full citizenship rights under Indian law, and how does it differ from citizenship in terms of educational admissions?",
+    "expected_output": "OCI status does not confer full citizenship rights under Indian law. The Supreme Court has explicitly treated OCI as a statutory status distinct from citizenship, upholding policy frameworks that do not grant automatic parity with Indian citizens for educational admissions. OCI cardholders are not Indian citizens and do not receive all rights reserved for citizens, as per the Citizenship Act.",
+    "context": [
+      "Decision / holding. The Supreme Court treated OCI as a statutory status distinct from citizenship and upheld the policy framework that did not grant OCI holders automatic parity with Indian citizens for the relevant admission issue.",
+      "36. OCI is not dual citizenship. The Citizenship Act treats OCI as a separate statutory status. OCI cardholders are not Indian citizens and do not receive all rights reserved for citizens. The Supreme Court has described OCI as a distinct statutory status and has upheld policy distinctions between OCI holders and citizens in areas such as education."
+    ],
+    "sources": [
+      "cases",
+      "indian_citizenship_guide"
+    ],
+    "family": "cross",
+    "batch_id": "cross-0",
+    "additional_metadata": {
+      "evolutions": [
+        "Reasoning"
+      ],
+      "synthetic_input_quality": 0.8
+    },
+    "source_file": null
+  },
+  {
+    "input": "How does marriage to an Indian citizen compare to the requirements for Section .5(1)(f) citizenship eligibility, and what additional conditions must be satisfied?",
+    "expected_output": "Marriage to an Indian citizen creates an eligibility pathway under Section 5(1)(c), but does not automatically confer citizenship. For Section 5(1)(f) eligibility, the applicant must satisfy the statutory residence/service requirement, undertake renunciation of foreign citizenship, and take the oath. Both pathways require similar conditions like the undertaking and oath, but Section 5(1)(f) specifically mandates the residence/service requirement, whereas marriage to an Indian citizen requires the applicant to meet the statutory residence/service requirement, undertake renunciation of foreign citizenship, and take the oath.",
+    "context": [
+      "Facts. The petition concerned an applicant relying on an earlier Indian-citizen parent and ordinary residence in India. The government argued that the Section 5(1)(f) requirements, the applicable form, undertaking and oath had to be satisfied.",
+      "17. Marriage to an Indian citizen. Marriage can create an eligibility pathway under Section 5(1)(c), but marriage itself does not automatically confer Indian citizenship. The statutory residence/service requirement, undertaking concerning renunciation of foreign citizenship, oath and other applicable conditions must be satisfied."
+    ],
+    "sources": [
+      "cases",
+      "indian_citizenship_guide"
+    ],
+    "family": "cross",
+    "batch_id": "cross-1",
+    "additional_metadata": {
+      "evolutions": [
+        "Comparative"
+      ],
+      "synthetic_input_quality": 0.9
+    },
+    "source_file": null
+  },
+  {
+    "input": "How do the Section 5(1)(f) requirements for Indian citizenship compare to the conditions for marriage to an Indian citizen?",
+    "expected_output": "Section 5(1)(f) requires satisfaction of statutory residence/service, undertaking on renunciation of foreign citizenship, and oath, while marriage to an Indian citizen (Section 5( 1)(c)) does not automatically confer citizenship but requires similar conditions like statutory residence/service, undertaking, and oath.",
+    "context": [
+      "Facts. The petition concerned an applicant relying on an earlier Indian-citizen parent and ordinary residence in India. The government argued that the Section 5(1)(f) requirements, the applicable form, undertaking and oath had to be satisfied.",
+      "17. Marriage to an Indian citizen. Marriage can create an eligibility pathway under Section 5(1)(c), but marriage itself does not automatically confer Indian citizenship. The statutory residence/service requirement, undertaking concerning renunciation of foreign citizenship, oath and other applicable conditions must be satisfied."
+    ],
+    "sources": [
+      "cases",
+      "indian_citizenship_guide"
+    ],
+    "family": "cross",
+    "batch_id": "cross-1",
+    "additional_metadata": {
+      "evolutions": [
+        "Comparative"
+      ],
+      "synthetic_input_quality": 0.7
+    },
+    "source_file": null
+  },
+  {
+    "input": "How do the case limits and residence requirements differ for children born abroad in citizenship registration for different countries?",
+    "expected_output": "The case limits and residence requirements differ as follows: 1) The case is fact-specific and does not establish universal rules; Section 4 (date of birth), parental citizenship at birth, registration requirements, and Section 9 issues must be examined separately. 2) Residence rules are category-specific—different Section 5 categories have varying requirements, such as a seven-year ordinary-residence rule for some applications versus a twelve-month period for others. The exact rule must match the applicable Section 5 clause.",
+    "context": [
+      "Limits of the case. The case is fact-specific. It does not establish a universal rule for every child born abroad; Section 4, the date of birth, parental citizenship at birth, registration requirements and Section 9 issues must be separately examined.",
+      "16. Residence is category-specific. Do not copy a seven-year residence rule into every registration case. The Citizenship Rules prescribe different requirements for different Section 5 categories. For example, the Rules contain a seven-year ordinary-residence requirement for certain applications, while other categories use a twelve-month period. The exact form and rule must be matched to the Section 5 clause."
+    ],
+    "sources": [
+      "cases",
+      "indian_citizenship_guide"
+    ],
+    "family": "cross",
+    "batch_id": "cross-1",
+    "additional_metadata": {
+      "evolutions": [
+        "Comparative"
+      ],
+      "synthetic_input_quality": 0.7
+    },
+    "source_file": null
+  },
+  {
+    "input": "How do the specific residence rules in Section 5 categories affect citizenship applications, and what are the key differences between these rules and those in other sections?",
+    "expected_output": "Section 5 categories have distinct residence requirements, such as a seven-year ordinary-residence rule for some applications and a twelve-month period for others. These rules must be matched to the specific Section 5 clause, as the Citizenship Rules do not apply a universal residence rule across all cases. The case is fact-specific, and Section 4, birth date, parental citizenship, registration requirements, and Section 9 issues must be examined separately.",
+    "context": [
+      "Limits of the case. The case is fact-specific. It does not establish a universal rule for every child born abroad; Section 4, the date of birth, parental citizenship at birth, registration requirements and Section 9 issues must be separately examined.",
+      "16. Residence is category-specific. Do not copy a seven-year residence rule into every registration case. The Citizenship Rules prescribe different requirements for different Section 5 categories. For example, the Rules contain a seven-year ordinary-residence requirement for certain applications, while other categories use a twelve-month period. The exact form and rule must be matched to the Section 5 clause."
+    ],
+    "sources": [
+      "cases",
+      "indian_citizenship_guide"
+    ],
+    "family": "cross",
+    "batch_id": "cross-1",
+    "additional_metadata": {
+      "evolutions": [
+        "Multi-context"
+      ],
+      "synthetic_input_quality": 0.7
+    },
+    "source_file": null
+  },
+  {
+    "input": "How do passport authorities handle citizenship disputes for individuals born in India under Section 3? How can I find out more about the legal process for resolving such disputes without relying on a single document?",
+    "expected_output": "Passport authorities must apply the Passport Act and procedures even if citizenship is established by birth under Section 3. Disputes involving individuals born in India claiming citizenship under Section 3 and seeking passports have been addressed through case-law, as referenced in the case-law handbook. To resolve such disputes without relying on a single document, consult the case-law handbook for legal processes and procedures.",
+    "context": [
+      "Facts. The petitioners were born in India at different dates and claimed citizenship under Section 3. The dispute arose when passports were sought and citizenship was questioned.",
+      "11. Passport consequences. Where a person establishes citizenship by birth, passport authorities must still apply the Passport Act and passport procedures. Courts have considered disputes where people born in India claimed citizenship under Section 3 and sought passports; see the case-law handbook."
+    ],
+    "sources": [
+      "cases",
+      "indian_citizenship_guide"
+    ],
+    "family": "cross",
+    "batch_id": "cross-1",
+    "additional_metadata": {
+      "evolutions": [
+        "Multi-context"
+      ],
+      "synthetic_input_quality": 0.9
+    },
+    "source_file": null
+  },
+  {
+    "input": "Do Indian citizens born under Section 12 of the Citizenship Act, 1958 face passport disputes without citizenship verification? How can this be resolved using both the Citizenship Act and the Passport Act?",
+    "expected_output": "Indian citizens born under Section 12 of the Citizenship Act, 1958 do not face passport disputes without citizenship verification, as citizenship is established at birth under this section. Passport authorities must still apply the Passport Act and procedures, but disputes are resolved through courts considering case-law from the case-law handbook, ensuring compliance with both acts.",
+    "context": [
+      "Facts. The petitioners were born in India at different dates and claimed citizenship under Section 3. The dispute arose when passports were sought and citizenship was questioned.",
+      "11. Passport consequences. Where a person establishes citizenship by birth, passport authorities must still apply the Passport Act and passport procedures. Courts have considered disputes where people born in India claimed citizenship under Section 3 and sought passports; see the case-law handbook."
+    ],
+    "sources": [
+      "cases",
+      "indian_citizenship_guide"
+    ],
+    "family": "cross",
+    "batch_id": "cross-1",
+    "additional_metadata": {
+      "evolutions": [
+        "Multi-context"
+      ],
+      "synthetic_input_quality": 0.7
+    },
+    "source_file": null
+  },
+  {
+    "input": "How does Section 6B's Collector-centered process differ from older citizenship categories in procedural requirements?",
+    "expected_output": "Section 6B's Collector-centered process differs from older citizenship categories by being more procedure-sensitive due to specific administrative arrangements established in the 2024 Rules and subsequent 2026 changes. As of August 2026, applications in Gujarat, Rajasthan, Punjab, West Bengal, Assam (except tribal areas), Tripura (except tribal areas), and Jammu and Kashmir/Ladakh Union Territories are processed through electronic submission, document verification, and oath administration by the Collector, rather than through court-based procedures used in older categories.",
+    "context": [
+      "9.2 - Section 6B: current administrative litigation note. Section 6B implementation is more procedure-sensitive than many older citizenship categories because the 2024 Rules and subsequent 2026 changes created specific administrative arrangements. As of August 2026, MHA's current materials show a Collector-centered process for Section 6B applications in Gujarat, Rajasthan, Punjab, West Bengal, Assam except tribal areas, Tripura except tribal areas, and the Union Territories of Jammu and Kashmir and Ladakh. This is a current administrative rule/order rather than a court precedent, so it belongs in a case-law handbook as a cross-reference rather than being presented as a judicial holding. [MHA current Acts/Rules page](https://www.mha.gov.in/en/divisionofmha/foreigners-division)",
+      "27. Current 2026 administrative change for Section 6B. MHA's 19 August 2026 rules and order changed the processing arrangement for Section 6B applications ordinarily residing in Gujarat, Rajasthan, Punjab, West Bengal, Assam (except tribal areas), Tripura (except tribal areas), and the Union Territories of Jammu and Kashmir and Ladakh. The 2026 Rules provide for electronic submission to the jurisdictional Collector, document verification and inquiry by the Collector, administration of the oath, and disposal by the Collector when the statutory conditions are satisfied. Pending Section 6B applications in the specified areas were also directed to be transferred to the Collector concerned."
+    ],
+    "sources": [
+      "cases",
+      "indian_citizenship_guide"
+    ],
+    "family": "cross",
+    "batch_id": "cross-2",
+    "additional_metadata": {
+      "evolutions": [
+        "Reasoning"
+      ],
+      "synthetic_input_quality": 0.8
+    },
+    "source_file": null
+  },
+  {
+    "input": "How did the Supreme Court case Union of India v. Pranav Srinivasan cite specific provisions of the Citizenship Act, 1955? How can the case be interpreted without relying on a single document?",
+    "expected_output": "The Supreme Court in Union of India v. Pranav Srinivasan (2024 INSC 792) cited Citizenship Act, 1955 Sections 5, 8, and 9 as key provisions. The case interpretation requires cross-referencing multiple documents: the Citizenship Act 1955, Citizenship Rules 2009, and the MHA Foreigners Division guidelines to avoid over-reliance on a single source.",
+    "context": [
+      "Case 4.1 - Union of India v. Pranav Srinivasan. Court: Supreme Court of India Date: 18 October 2024 Citation / Case No.: 2024 INSC 792; Civil Appeal No. 5932 of 2023 with W.P.(C) No. 123 of 2024 Key provisions: Constitution Articles 8-11; Citizenship Act Sections 5, 8 and 9",
+      "49. Source register. - [l MHA Foreigners Division](https://www.mha.gov.in/en/divisionofmha/foreigners-division) - [l India Code - Citizenship Act, 1955](https://www.indiacode.nic.in/bitstream/123456789/9179/1/citizenship_act_1955.pdf) - [l MHA - Citizenship Rules, 2009](https://www.mha.gov.in/sites/default/files/2022-09/Citi_Rule-2009_0%5B1%5D.pdf) - [l MHA - OCI](https://www.mha.gov.in/en/divisionofmha/foreigners-division/overseas-citizen-of-india-cardholder) - [l Supreme Court - Union of India v. Pranav Srinivasan, 2024 INSC 792](https://api.sci.gov.in/supremecourt/2023/21809/21809_2023_6_1502_56499_Judgement_18-Oct-2024.pdf)"
+    ],
+    "sources": [
+      "cases",
+      "indian_citizenship_guide"
+    ],
+    "family": "cross",
+    "batch_id": "cross-2",
+    "additional_metadata": {
+      "evolutions": [
+        "Multi-context"
+      ],
+      "synthetic_input_quality": 0.8
+    },
+    "source_file": null
+  },
+  {
+    "input": "How do the Citizenship Rules, 2009 and the Supreme Court case Union of India v. Pranav Srinivasan relate to each other?",
+    "expected_output": "The Citizenship Rules, 2009 and the Supreme Court case Union of India v. Pranav Srinivasan (2024 INSC 792) are directly related through the application of the Citizenship Act, 1955. The Supreme Court's ruling in this case addresses the interpretation of the Citizenship Rules, 2009 under the Citizenship Act, specifically focusing on provisions related to the source register and the validity of Overseas Citizen of India (OCI) cards. The case clarifies how the rules interact with constitutional provisions (Articles 8-11) and ensures compliance with the Citizenship Act, as evidenced by the Court's citation of the Rules in its judgment.",
+    "context": [
+      "Case 4.1 - Union of India v. Pranav Srinivasan. Court: Supreme Court of India Date: 18 October 2024 Citation / Case No.: 2024 INSC 792; Civil Appeal No. 5932 of 2023 with W.P.(C) No. 123 of 2024 Key provisions: Constitution Articles 8-11; Citizenship Act Sections 5, 8 and 9",
+      "49. Source register. - [l MHA Foreigners Division](https://www.mha.gov.in/en/divisionofmha/foreigners-division) - [l India Code - Citizenship Act, 1955](https://www.indiacode.nic.in/bitstream/123456789/9179/1/citizenship_act_1955.pdf) - [l MHA - Citizenship Rules, 2009](https://www.mha.gov.in/sites/default/files/2022-09/Citi_Rule-2009_0%5B1%5D.pdf) - [l MHA - OCI](https://www.mha.gov.in/en/divisionofmha/foreigners-division/overseas-citizen-of-india-cardholder) - [l Supreme Court - Union of India v. Pranav Srinivasan, 2024 INSC 792](https://api.sci.gov.in/supremecourt/2023/21809/21809_2023_6_1502_56499_Judgement_18-Oct-2024.pdf)"
+    ],
+    "sources": [
+      "cases",
+      "indian_citizenship_guide"
+    ],
+    "family": "cross",
+    "batch_id": "cross-2",
+    "additional_metadata": {
+      "evolutions": [
+        "Comparative"
+      ],
+      "synthetic_input_quality": 0.7
+    },
+    "source_file": null
+  },
+  {
+    "input": "Which handbook section addresses citizenship by descent and foreign citizenship cases, and how does this compare to the requirements for naturalization in the other handbook?",
+    "expected_output": "The handbook section addressing citizenship by descent and foreign citizenship cases is Part IV. This section covers cases on citizenship by descent and foreign citizenship, whereas naturalization requirements are detailed in Part V (Cases on registration, residence and naturalisation) of the same handbook.",
+    "context": [
+      "Contents. - 1 Part I - How to use this case-law handbook - 2 Part II - Standard case-reading template - 3 Part III - Cases on citizenship by birth - 4 Part IV - Cases on citizenship by descent / foreign citizenship - 5 Part V - Cases on registration, residence and naturalisation - 6 Part VI - Cases on OCI - 7 Part VII - Cases on administrative delay, rejection and remedies - 8 Part VIII - Deprivation and citizenship-status disputes - 9 Part IX - CAA / Section 6A / Section 6B litigation - 10 Part X - Master case table and statutory index",
+      "50. Cross-reference to PDF-2. For precedent on birth, descent, registration, foreign citizenship, OCI, administrative delay and deprivation, use the companion document: \"Indian Citizenship Case Law: Applicant-Focused Precedent Handbook.\""
+    ],
+    "sources": [
+      "cases",
+      "indian_citizenship_guide"
+    ],
+    "family": "cross",
+    "batch_id": "cross-2",
+    "additional_metadata": {
+      "evolutions": [
+        "Multi-context"
+      ],
+      "synthetic_input_quality": 0.8
+    },
+    "source_file": null
+  },
+  {
+    "input": "How does the Supreme Court's Izhar Ahmad Khan ruling clarify Section 9's voluntary citizenship acquisition termination process, and what specific legal provisions from other relevant documents support this interpretation?",
+    "expected_output": "The Supreme Court's Izhar Ahmad Khan v. Union of India ruling clarifies that an Indian citizen who voluntarily acquires citizenship of another country ceases to be an Indian citizen under Section 9 of the Citizenship Act, subject to evidence provisions in the Citizenship Rules. This interpretation is supported by Constitution Article 9 and Citizenship Act Section 9(2), which establish the legal framework for termination of citizenship through voluntary acquisition.",
+    "context": [
+      "Case 4.2 - Izhar Ahmad Khan v. Union of India. Court: Supreme Court of India Date: 16 February 1962 Citation / Case No.: 1962 Supreme Court judgment Key provisions: Constitution Article 9; Citizenship Act Section 9(2); Citizenship Rules evidence provisions",
+      "40. Termination - Section 9. Section 9 provides that an Indian citizen who voluntarily acquires the citizenship of another country ceases to be an Indian citizen, subject to the statutory framework. The Citizenship Rules contain evidence provisions for determining whether foreign citizenship was voluntarily acquired. The Supreme Court's decision in Izhar Ahmad Khan v. Union of India is a foundational authority on Section 9."
+    ],
+    "sources": [
+      "cases",
+      "indian_citizenship_guide"
+    ],
+    "family": "cross",
+    "batch_id": "cross-3",
+    "additional_metadata": {
+      "evolutions": [
+        "Multi-context"
+      ],
+      "synthetic_input_quality": 0.7
+    },
+    "source_file": null
+  },
+  {
+    "input": "How do Section 6A's generic citizenship pathways differ from Section 6B's specialized migration categories under CAA?",
+    "expected_output": "Section 6A is a generic citizenship route that does not apply as a specialized framework, while Section 6B is a specialized statutory pathway for specified persons under the CAA framework with specific criteria including designated countries, communities, a cut-off date, modified naturalisation periods, and special treatment under illegal-migrant provisions.",
+    "context": [
+      "Applicant significance. Do not apply Section 6A as a generic citizenship route. It is a specialized statutory framework with date-specific migration categories.",
+      "26. Section 6B - CAA framework. Section 6B creates a special pathway for specified persons covered by the Citizenship Amendment Act framework. The statutory criteria include specified countries, communities and a cut-off date, together with special treatment under the illegal-migrant provisions and a modified naturalisation period. The applicant must satisfy every statutory condition."
+    ],
+    "sources": [
+      "cases",
+      "indian_citizenship_guide"
+    ],
+    "family": "cross",
+    "batch_id": "cross-3",
+    "additional_metadata": {
+      "evolutions": [
+        "Multi-context"
+      ],
+      "synthetic_input_quality": 0.9
+    },
+    "source_file": null
+  },
+  {
+    "input": "How do the specified countries, communities, cut-off date, and modified naturalisation period meet Section 6B's eligibility criteria for CAA citizenship?",
+    "expected_output": "Section 6B's eligibility criteria require applicants to be from specified countries, belong to specific communities, meet the cut-off date, and undergo a modified naturalisation period, as these elements are statutory conditions under the Citizenship Amendment Act framework.",
+    "context": [
+      "Applicant significance. Do not apply Section 6A as a generic citizenship route. It is a specialized statutory framework with date-specific migration categories.",
+      "26. Section 6B - CAA framework. Section 6B creates a special pathway for specified persons covered by the Citizenship Amendment Act framework. The statutory criteria include specified countries, communities and a cut-off date, together with special treatment under the illegal-migrant provisions and a modified naturalisation period. The applicant must satisfy every statutory condition."
+    ],
+    "sources": [
+      "cases",
+      "indian_citizenship_guide"
+    ],
+    "family": "cross",
+    "batch_id": "cross-3",
+    "additional_metadata": {
+      "evolutions": [
+        "Reasoning"
+      ],
+      "synthetic_input_quality": 0.9
+    },
+    "source_file": null
+  },
+  {
+    "input": "How do the key areas covered in the Indian Citizenship Case Law guide for applicants differ from the eligibility and application processes outlined in the document?",
+    "expected_output": "The Indian Citizenship Case Law guide covers key areas including Birth, Descent, Registration, Naturalisation, Foreign Citizenship, OCI, Delays, Deprivation, and Special Frameworks, while the eligibility and application processes focus on specific steps like Eligibility, Application, Documents, Verification, Rights, Loss of Citizenship, and Remedies. Both documents emphasize verifying current official texts, rules, and case status before use.",
+    "context": [
+      "Indian Citizenship Case Law: Applicant-Focused Precedent Handbook. Birth · Descent · Registration · Naturalisation · Foreign Citizenship · OCI · Delays · Deprivation · Special Frameworks Plain-language legal reference. Verify the current official text, rules, notifications and case status before relying on this guide for an application or legal proceeding. Version: 28 September 2026",
+      "Eligibility · Application · Documents · Verification · Rights · Loss of Citizenship · Remedies. Plain-language legal reference. Verify the current official text, rules, notifications and case status before relying on this guide for an application or legal proceeding. Version: 28 September 2026"
+    ],
+    "sources": [
+      "cases",
+      "indian_citizenship_guide"
+    ],
+    "family": "cross",
+    "batch_id": "cross-3",
+    "additional_metadata": {
+      "evolutions": [
+        "Comparative"
+      ],
+      "synthetic_input_quality": 0.7
+    },
+    "source_file": null
+  },
+  {
+    "input": "How does the Applicant-Focused Precedent Handbook ensure applicants verify current official text before legal decisions, and what specific steps should they take to avoid outdated references in their applications?",
+    "expected_output": "The Applicant-Focused Precedent Handbook emphasizes that applicants must verify current official text, rules, notifications, and case status before relying on the guide for applications or legal proceedings. Specific steps include checking the latest updates via the official government portals, cross-referencing with the most recent notifications (e.g., from the Ministry of Home Affairs), and ensuring all application documents align with the current legal framework as of the latest version (28 September 2026). This prevents outdated references and ensures compliance with active regulations.",
+    "context": [
+      "Indian Citizenship Case Law: Applicant-Focused Precedent Handbook. Birth · Descent · Registration · Naturalisation · Foreign Citizenship · OCI · Delays · Deprivation · Special Frameworks Plain-language legal reference. Verify the current official text, rules, notifications and case status before relying on this guide for an application or legal proceeding. Version: 28 September 2026",
+      "Eligibility · Application · Documents · Verification · Rights · Loss of Citizenship · Remedies. Plain-language legal reference. Verify the current official text, rules, notifications and case status before relying on this guide for an application or legal proceeding. Version: 28 September 2026"
+    ],
+    "sources": [
+      "cases",
+      "indian_citizenship_guide"
+    ],
+    "family": "cross",
+    "batch_id": "cross-3",
+    "additional_metadata": {
+      "evolutions": [
+        "Reasoning"
+      ],
+      "synthetic_input_quality": 0.7
+    },
+    "source_file": null
+  },
+  {
+    "input": "How can I get Indian citizenship through birth, descent, or registration under the Citizenship Act?",
+    "expected_output": "To obtain Indian citizenship through birth, descent, or registration under the Citizenship Act, individuals must meet specific criteria outlined in Sections 3, 4, and 5 of the Act. For birth citizenship (Section 3), one must be born in India or to Indian parents. Descent citizenship (Section 4) applies to children of Indian citizens. Registration (Section 5) is available for those who meet residency and other conditions. Recent case law, such as Munna Mohammed Grouse v. Union of India (2026) and Shantanu Prakash v. Union of India (2026), clarifies that passport applications may be denied if citizenship is contested, emphasizing the need for compliance with statutory provisions and procedural requirements. It is critical to verify current rules and case statuses via official sources like Indian Kanoon before applying.",
+    "context": [
+      "Indian Citizenship Case Law: Applicant-Focused Precedent Handbook. Birth · Descent · Registration · Naturalisation · Foreign Citizenship · OCI · Delays · Deprivation · Special Frameworks Plain-language legal reference. Verify the current official text, rules, notifications and case status before relying on this guide for an application or legal proceeding. Version: 28 September 2026",
+      "Facts. The petitioners were born in India at different dates and claimed citizenship under Section 3. The dispute arose when passports were sought and citizenship was questioned.",
+      "Primary source. [https://indiankanoon.org/doc/7975822/](https://indiankanoon.org/doc/7975822/)",
+      "Case 5.2 - Munna Mohammed Grouse v. Union of India. Court: High Court of Karnataka Date: 22 April 2026 Citation / Case No.: 2026 High Court order Key provisions: Citizenship Act Section 5(1)(f); Citizenship Rules",
+      "Case 7.2 - Shantanu Prakash v. Union of India. Court: Delhi High Court Date: 30 March 2026 Citation / Case No.: WP(C) 10428/2024 Key provisions: Citizenship Act Section 5(1)(a); Article 226",
+      "Part X - Master Case Table and Statutory Index. Rinzin Dolma, Court / year = Delhi HC / 2017. Rinzin Dolma, Primary issue = Birth citizenship + passport. Rinzin Dolma, Main provision = §3. Pranav Srinivasan, Court / year = SC / 2024. Pranav Srinivasan, Primary issue = Foreign-born person; resumption. Pranav Srinivasan, Main provision = §§5,8,9. Izhar Ahmad Khan, Court / year = SC / 1962. Izhar Ahmad Khan, Primary issue = Foreign citizenship / evidence. Izhar Ahmad Khan, Main provision = §9. Reena Chandy, Court / year = Kerala HC / 2026. Reena Chandy, Primary issue = Descent + minor foreign citizenship. Reena Chandy, Main provision = §§4,9. Shantanu Prakash, Court / year = Delhi HC / 2026. Shantanu Prakash, Primary issue = Rejection + security/FIRs. Shantanu Prakash, Main provision = §5. Munna Mohammed Grouse, Court / year = HC / 2026. Munna Mohammed Grouse, Primary issue = Registration + ordinary residence. Munna Mohammed Grouse, Main provision = §5. Anushka Rengunthwar, Court / year = SC / 2023. Anushka Rengunthwar, Primary issue = OCI privileges. Anushka Rengunthwar, Main provision = §7B. Khalid Jahangir Qazi, Court / year = Delhi HC / 2026. Khalid Jahangir Qazi, Primary issue = OCI cancellation + hearing. Khalid Jahangir Qazi, Main provision = §7D. John Robert Roughton III, Court / year = Delhi HC / 2025. John Robert Roughton III, Primary issue = OCI privileges. John Robert Roughton III, Main provision = §7B. Gurmeet Singh Bains, Court / year = P&H HC / 2022. Gurmeet Singh Bains, Primary issue = Delay / Article 226. Gurmeet Singh Bains, Main provision = §5. Nageshwar Mishra, Court / year = Allahabad HC / 2020. Nageshwar Mishra, Primary issue = Deprivation scope. Nageshwar Mishra, Main provision = §10. Ramesh Singh, Court / year = Allahabad HC / 2016. Ramesh Singh, Primary issue = Existing citizenship order. Ramesh Singh, Main provision = §§5,9,10. In Re Section 6A, Court / year = SC / 2024. In Re Section 6A, Primary issue = Assam Accord framework. In Re Section 6A, Main provision = §6A"
+    ],
+    "sources": [
+      "cases"
+    ],
+    "family": "summary",
+    "batch_id": "summary-0",
+    "context_index": 0,
+    "additional_metadata": {
+      "evolutions": [
+        "In-Breadth"
+      ],
+      "synthetic_input_quality": 0.8
+    },
+    "source_file": null
+  },
+  {
+    "input": "How can I analyze judicial rulings on citizenship delays and deprivation under Section 5(1)(f) and Section 10 to get a high-level overview of the main themes?",
+    "expected_output": "This handbook identifies key judicial themes on citizenship delays and deprivation under Section 5(1)(f) and Section 10: 1) Delays in processing applications are frequently challenged via Article 226 of the Constitution, with courts emphasizing the need for timely responses to prevent indefinite detention; 2) Deprivation cases often involve disputes over whether citizenship can be revoked for non-compliance with residency or documentation requirements under Section 10; 3) Recent cases (e.g., *Gurmeet Singh Bains* and *Nageshwar Mishra*) highlight the critical role of statutory interpretation in balancing individual rights against administrative efficiency, particularly regarding foreign-born applicants and existing citizenship orders. The handbook underscores the importance of verifying current legal provisions through official sources like Indian Kanoon before applying.",
+    "context": [
+      "Indian Citizenship Case Law: Applicant-Focused Precedent Handbook. Birth · Descent · Registration · Naturalisation · Foreign Citizenship · OCI · Delays · Deprivation · Special Frameworks Plain-language legal reference. Verify the current official text, rules, notifications and case status before relying on this guide for an application or legal proceeding. Version: 28 September 2026",
+      "Facts. The petitioners were born in India at different dates and claimed citizenship under Section 3. The dispute arose when passports were sought and citizenship was questioned.",
+      "Primary source. [https://indiankanoon.org/doc/7975822/](https://indiankanoon.org/doc/7975822/)",
+      "Case 5.2 - Munna Mohammed Grouse v. Union of India. Court: High Court of Karnataka Date: 22 April 2026 Citation / Case No.: 2026 High Court order Key provisions: Citizenship Act Section 5(1)(f); Citizenship Rules",
+      "Case 7.2 - Shantanu Prakash v. Union of India. Court: Delhi High Court Date: 30 March 2026 Citation / Case No.: WP(C) 10428/2024 Key provisions: Citizenship Act Section 5(1)(a); Article 226",
+      "Part X - Master Case Table and Statutory Index. Rinzin Dolma, Court / year = Delhi HC / 2017. Rinzin Dolma, Primary issue = Birth citizenship + passport. Rinzin Dolma, Main provision = §3. Pranav Srinivasan, Court / year = SC / 2024. Pranav Srinivasan, Primary issue = Foreign-born person; resumption. Pranav Srinivasan, Main provision = §§5,8,9. Izhar Ahmad Khan, Court / year = SC / 1962. Izhar Ahmad Khan, Primary issue = Foreign citizenship / evidence. Izhar Ahmad Khan, Main provision = §9. Reena Chandy, Court / year = Kerala HC / 2026. Reena Chandy, Primary issue = Descent + minor foreign citizenship. Reena Chandy, Main provision = §§4,9. Shantanu Prakash, Court / year = Delhi HC / 2026. Shantanu Prakash, Primary issue = Rejection + security/FIRs. Shantanu Prakash, Main provision = §5. Munna Mohammed Grouse, Court / year = HC / 2026. Munna Mohammed Grouse, Primary issue = Registration + ordinary residence. Munna Mohammed Grouse, Main provision = §5. Anushka Rengunthwar, Court / year = SC / 2023. Anushka Rengunthwar, Primary issue = OCI privileges. Anushka Rengunthwar, Main provision = §7B. Khalid Jahangir Qazi, Court / year = Delhi HC / 2026. Khalid Jahangir Qazi, Primary issue = OCI cancellation + hearing. Khalid Jahangir Qazi, Main provision = §7D. John Robert Roughton III, Court / year = Delhi HC / 2025. John Robert Roughton III, Primary issue = OCI privileges. John Robert Roughton III, Main provision = §7B. Gurmeet Singh Bains, Court / year = P&H HC / 2022. Gurmeet Singh Bains, Primary issue = Delay / Article 226. Gurmeet Singh Bains, Main provision = §5. Nageshwar Mishra, Court / year = Allahabad HC / 2020. Nageshwar Mishra, Primary issue = Deprivation scope. Nageshwar Mishra, Main provision = §10. Ramesh Singh, Court / year = Allahabad HC / 2016. Ramesh Singh, Primary issue = Existing citizenship order. Ramesh Singh, Main provision = §§5,9,10. In Re Section 6A, Court / year = SC / 2024. In Re Section 6A, Primary issue = Assam Accord framework. In Re Section 6A, Main provision = §6A"
+    ],
+    "sources": [
+      "cases"
+    ],
+    "family": "summary",
+    "batch_id": "summary-0",
+    "context_index": 0,
+    "additional_metadata": {
+      "evolutions": [
+        "In-Breadth"
+      ],
+      "synthetic_input_quality": 0.8
+    },
+    "source_file": null
+  },
+  {
+    "input": "How do Part I through X of the Indian citizenship case-law handbook differ in their focus and purpose?",
+    "expected_output": "Part I introduces the handbook’s structure and usage, while Part II provides a standardized template for analyzing cases. Part III focuses on citizenship by birth cases, Part IV covers citizenship by descent and foreign citizenship matters, Part V addresses registration, residence, and naturalization issues, Part VI handles Overseas Citizen of India (OCI) cases, Part VII deals with administrative delays, rejections, and remedies, Part VIII addresses deprivation and citizenship-status disputes, and Part IX covers litigation related to the Citizenship Act, Section 6A, and Section 6B. Part X serves as a master case table and statutory index for quick reference.",
+    "context": [
+      "Contents. - 1 Part I - How to use this case-law handbook - 2 Part II - Standard case-reading template - 3 Part III - Cases on citizenship by birth - 4 Part IV - Cases on citizenship by descent / foreign citizenship - 5 Part V - Cases on registration, residence and naturalisation - 6 Part VI - Cases on OCI - 7 Part VII - Cases on administrative delay, rejection and remedies - 8 Part VIII - Deprivation and citizenship-status disputes - 9 Part IX - CAA / Section 6A / Section 6B litigation - 10 Part X - Master case table and statutory index",
+      "Facts. The dispute concerned whether the statutory deprivation mechanism under Section 10 could be used against a person whose citizenship arose by birth.",
+      "Primary source. [https://indiankanoon.org/docfragment/139703340/?formInput=+indian+citizenship+act+++doctypes%3A+sc%2Chighcourts+year%3A+2026](https://indiankanoon.org/docfragment/139703340/?formInput=+indian+citizenship+act+++doctypes%3A+sc%2Chighcourts+year%3A+2026)",
+      "Case 5.2 - Munna Mohammed Grouse v. Union of India. Court: High Court of Karnataka Date: 22 April 2026 Citation / Case No.: 2026 High Court order Key provisions: Citizenship Act Section 5(1)(f); Citizenship Rules",
+      "Case 8.1 - Nageshwar Mishra v. Union of India. Court: Allahabad High Court Date: 2 September 2020 Citation / Case No.: 2020 High Court decision Key provisions: Citizenship Act Section 10; Constitution Articles 5-11",
+      "Statutory index. Section 3, Use this handbook for = Rinzin Dolma - citizenship by birth and passport. Section 4, Use this handbook for = Pranav-related descent questions; Reena Chandy. Section 5, Use this handbook for = Pranav; Shantanu Prakash; Munna Mohammed Grouse; Ramesh Singh. Section 6, Use this handbook for = Naturalisation framework; current Rules. Section 6A, Use this handbook for = In Re Section 6A. Section 6B, Use this handbook for = Current MHA 2024/2026 implementation materials. Section 7A-7D, Use this handbook for = Anushka Rengunthwar; Khalid Jahangir Qazi; Roughton. Section 8, Use this handbook for = Pranav Srinivasan. Section 9, Use this handbook for = Izhar Ahmad Khan; Pranav; Reena Chandy. Section 10, Use this handbook for = Nageshwar Mishra; Ramesh Singh. Article 226, Use this handbook for = Gurmeet Singh Bains; Shantanu Prakash"
+    ],
+    "sources": [
+      "cases"
+    ],
+    "family": "summary",
+    "batch_id": "summary-0",
+    "context_index": 1,
+    "additional_metadata": {
+      "evolutions": [
+        "Comparative"
+      ],
+      "synthetic_input_quality": 0.7
+    },
+    "source_file": null
+  },
+  {
+    "input": "How does the handbook categorize citizenship by birth versus citizenship by descent cases?",
+    "expected_output": "The handbook categorizes citizenship cases into distinct sections: Part III covers citizenship by birth cases (e.g., Munna Mohammed Grouse v. Union of India), while Part IV addresses citizenship by descent and foreign citizenship disputes. Additionally, specific statutory references like Section 5(1)(f) of the Citizenship Act and Section 10 for statutory deprivation mechanisms are highlighted in the handbook for relevant cases. The handbook also provides targeted guidance for individuals such as Rinzin Dolma (citizenship by birth and passport) and Pranav (descent-related queries).",
+    "context": [
+      "Contents. - 1 Part I - How to use this case-law handbook - 2 Part II - Standard case-reading template - 3 Part III - Cases on citizenship by birth - 4 Part IV - Cases on citizenship by descent / foreign citizenship - 5 Part V - Cases on registration, residence and naturalisation - 6 Part VI - Cases on OCI - 7 Part VII - Cases on administrative delay, rejection and remedies - 8 Part VIII - Deprivation and citizenship-status disputes - 9 Part IX - CAA / Section 6A / Section 6B litigation - 10 Part X - Master case table and statutory index",
+      "Facts. The dispute concerned whether the statutory deprivation mechanism under Section 10 could be used against a person whose citizenship arose by birth.",
+      "Primary source. [https://indiankanoon.org/docfragment/139703340/?formInput=+indian+citizenship+act+++doctypes%3A+sc%2Chighcourts+year%3A+2026](https://indiankanoon.org/docfragment/139703340/?formInput=+indian+citizenship+act+++doctypes%3A+sc%2Chighcourts+year%3A+2026)",
+      "Case 5.2 - Munna Mohammed Grouse v. Union of India. Court: High Court of Karnataka Date: 22 April 2026 Citation / Case No.: 2026 High Court order Key provisions: Citizenship Act Section 5(1)(f); Citizenship Rules",
+      "Case 8.1 - Nageshwar Mishra v. Union of India. Court: Allahabad High Court Date: 2 September 2020 Citation / Case No.: 2020 High Court decision Key provisions: Citizenship Act Section 10; Constitution Articles 5-11",
+      "Statutory index. Section 3, Use this handbook for = Rinzin Dolma - citizenship by birth and passport. Section 4, Use this handbook for = Pranav-related descent questions; Reena Chandy. Section 5, Use this handbook for = Pranav; Shantanu Prakash; Munna Mohammed Grouse; Ramesh Singh. Section 6, Use this handbook for = Naturalisation framework; current Rules. Section 6A, Use this handbook for = In Re Section 6A. Section 6B, Use this handbook for = Current MHA 2024/2026 implementation materials. Section 7A-7D, Use this handbook for = Anushka Rengunthwar; Khalid Jahangir Qazi; Roughton. Section 8, Use this handbook for = Pranav Srinivasan. Section 9, Use this handbook for = Izhar Ahmad Khan; Pranav; Reena Chandy. Section 10, Use this handbook for = Nageshwar Mishra; Ramesh Singh. Article 226, Use this handbook for = Gurmeet Singh Bains; Shantanu Prakash"
+    ],
+    "sources": [
+      "cases"
+    ],
+    "family": "summary",
+    "batch_id": "summary-0",
+    "context_index": 1,
+    "additional_metadata": {
+      "evolutions": [
+        "In-Breadth"
+      ],
+      "synthetic_input_quality": 0.7
+    },
+    "source_file": null
+  },
+  {
+    "input": "How does the citizenship case-law handbook categorize cases by citizenship acquisition and disputes?",
+    "expected_output": "The citizenship case-law handbook categorizes cases into 10 distinct parts based on citizenship acquisition and disputes. Part I covers usage guidelines, Part II provides a standard case-reading template, Part III addresses citizenship by birth, Part IV deals with citizenship by descent and foreign citizenship, Part V covers registration, residence, and naturalisation, Part VI focuses on OCI (Overseas Citizenship of India) cases, Part VII addresses administrative delays, rejections, and remedies, Part VIII handles deprivation and citizenship-status disputes, Part IX covers CAA (Citizenship Amendment Act) and Section 6A/6B litigation, and Part X includes a master case table and statutory index. Key cases analyzed include Union of India v. Pranav Srinivasan (2024 SC), Munna Mohammed Grouse v. Union of India (2026 Karnataka HC), and Nageshwar Mishra v. Union of India (2020 Allahabad HC), each addressing specific legal issues such as administrative rejection, security information, and deprivation scope.",
+    "context": [
+      "Contents. - 1 Part I - How to use this case-law handbook - 2 Part II - Standard case-reading template - 3 Part III - Cases on citizenship by birth - 4 Part IV - Cases on citizenship by descent / foreign citizenship - 5 Part V - Cases on registration, residence and naturalisation - 6 Part VI - Cases on OCI - 7 Part VII - Cases on administrative delay, rejection and remedies - 8 Part VIII - Deprivation and citizenship-status disputes - 9 Part IX - CAA / Section 6A / Section 6B litigation - 10 Part X - Master case table and statutory index",
+      "Legal issues. - 1 Whether the administrative rejection was supported by the recorded reasons. - 2 What role adverse security information played in the decision.",
+      "Case 4.1 - Union of India v. Pranav Srinivasan. Court: Supreme Court of India Date: 18 October 2024 Citation / Case No.: 2024 INSC 792; Civil Appeal No. 5932 of 2023 with W.P.(C) No. 123 of 2024 Key provisions: Constitution Articles 8-11; Citizenship Act Sections 5, 8 and 9",
+      "Case 5.2 - Munna Mohammed Grouse v. Union of India. Court: High Court of Karnataka Date: 22 April 2026 Citation / Case No.: 2026 High Court order Key provisions: Citizenship Act Section 5(1)(f); Citizenship Rules",
+      "Case 8.1 - Nageshwar Mishra v. Union of India. Court: Allahabad High Court Date: 2 September 2020 Citation / Case No.: 2020 High Court decision Key provisions: Citizenship Act Section 10; Constitution Articles 5-11",
+      "Part X - Master Case Table and Statutory Index. Rinzin Dolma, Court / year = Delhi HC / 2017. Rinzin Dolma, Primary issue = Birth citizenship + passport. Rinzin Dolma, Main provision = §3. Pranav Srinivasan, Court / year = SC / 2024. Pranav Srinivasan, Primary issue = Foreign-born person; resumption. Pranav Srinivasan, Main provision = §§5,8,9. Izhar Ahmad Khan, Court / year = SC / 1962. Izhar Ahmad Khan, Primary issue = Foreign citizenship / evidence. Izhar Ahmad Khan, Main provision = §9. Reena Chandy, Court / year = Kerala HC / 2026. Reena Chandy, Primary issue = Descent + minor foreign citizenship. Reena Chandy, Main provision = §§4,9. Shantanu Prakash, Court / year = Delhi HC / 2026. Shantanu Prakash, Primary issue = Rejection + security/FIRs. Shantanu Prakash, Main provision = §5. Munna Mohammed Grouse, Court / year = HC / 2026. Munna Mohammed Grouse, Primary issue = Registration + ordinary residence. Munna Mohammed Grouse, Main provision = §5. Anushka Rengunthwar, Court / year = SC / 2023. Anushka Rengunthwar, Primary issue = OCI privileges. Anushka Rengunthwar, Main provision = §7B. Khalid Jahangir Qazi, Court / year = Delhi HC / 2026. Khalid Jahangir Qazi, Primary issue = OCI cancellation + hearing. Khalid Jahangir Qazi, Main provision = §7D. John Robert Roughton III, Court / year = Delhi HC / 2025. John Robert Roughton III, Primary issue = OCI privileges. John Robert Roughton III, Main provision = §7B. Gurmeet Singh Bains, Court / year = P&H HC / 2022. Gurmeet Singh Bains, Primary issue = Delay / Article 226. Gurmeet Singh Bains, Main provision = §5. Nageshwar Mishra, Court / year = Allahabad HC / 2020. Nageshwar Mishra, Primary issue = Deprivation scope. Nageshwar Mishra, Main provision = §10. Ramesh Singh, Court / year = Allahabad HC / 2016. Ramesh Singh, Primary issue = Existing citizenship order. Ramesh Singh, Main provision = §§5,9,10. In Re Section 6A, Court / year = SC / 2024. In Re Section 6A, Primary issue = Assam Accord framework. In Re Section 6A, Main provision = §6A"
+    ],
+    "sources": [
+      "cases"
+    ],
+    "family": "summary",
+    "batch_id": "summary-0",
+    "context_index": 2,
+    "additional_metadata": {
+      "evolutions": [
+        "Comparative"
+      ],
+      "synthetic_input_quality": 0.8
+    },
+    "source_file": null
+  },
+  {
+    "input": "How can I get a high-level overview of the Citizenship Act's eligibility provisions, including specific exceptions for illegal migrants under Section :6B, and how do categories like Indian origin, marriage to Indian citizens, and territorial integration events define citizenship registration?",
+    "expected_output": "The Citizenship Act defines eligibility through specific categories, including Indian origin, marriage to an Indian citizen, minors, and territorial integration events. Section 6B provides statutory exceptions for certain persons, such as those covered by the proviso, which must be applied precisely to avoid misapplication. Territorial integration requires identifying a specific historical event and notification, not just familial residence. The application process involves stages like document verification, statutory eligibility assessment, and oath of allegiance. Deprivation of citizenship can occur under Section 10 for reasons like fraud, disloyalty, or prolonged foreign residence. Legal applicants must verify current official texts and case statuses before proceeding with claims.",
+    "context": [
+      "Eligibility · Application · Documents · Verification · Rights · Loss of Citizenship · Remedies. Plain-language legal reference. Verify the current official text, rules, notifications and case status before relying on this guide for an application or legal proceeding. Version: 28 September 2026",
+      "6. Illegal migrant definition. Section 2(1)(b) defines an illegal migrant in terms of entry without required travel documents/authority or remaining beyond the permitted period. The Citizenship Act then uses that concept in eligibility provisions. The CAA framework creates specific statutory exceptions for the persons covered by its proviso and Section 6B; those exceptions must be applied exactly as written.",
+      "15. Section 5. Section 5 contains multiple categories of persons who may be registered as citizens, subject to the exact statutory conditions. Depending on the clause, the framework can cover categories involving Indian origin, marriage to an Indian citizen, minors, persons whose parents were Indian citizens, former citizens and other specified relationships/statuses.",
+      "24. Applicant takeaway. If your citizenship claim is based on territorial integration, identify the specific territorial event and notification. Do not file a generic naturalisation application merely because your family has historical residence in a territory that was incorporated into India.",
+      "32. Possible processing stages. - 1 Submission and acknowledgement. - 2 Initial scrutiny for completeness. - 3 Document verification. - 4 Police/security or other inquiry where applicable. - 5 Clarification or deficiency request. - 6 Assessment of statutory eligibility and suitability. - 7 Oath of allegiance where required. - 8 Grant of registration/naturalisation certificate, or rejection/other decision.",
+      "41. Deprivation - Section 10. Section 10 concerns deprivation by order of the Central Government for specified categories and grounds, including fraud or concealment in obtaining registration/naturalisation, specified disloyalty grounds, certain wartime conduct, certain imprisonment within five years, and specified prolonged residence abroad. The statute also contains procedural safeguards including notice and, in specified cases, an inquiry committee."
+    ],
+    "sources": [
+      "indian_citizenship_guide"
+    ],
+    "family": "summary",
+    "batch_id": "summary-1",
+    "context_index": 3,
+    "additional_metadata": {
+      "evolutions": [
+        "Concretizing"
+      ],
+      "synthetic_input_quality": 0.8
+    },
+    "source_file": null
+  },
+  {
+    "input": "How can I identify the specific territorial event and notification for citizenship by territorial integration applications?",
+    "expected_output": "To identify the specific territorial event and notification for citizenship by territorial integration applications, you must determine the exact territorial incorporation event that applies to your case. This involves checking historical records of territories that were incorporated into India, such as those referenced in Part VII of the citizenship framework. The process requires identifying the relevant notification or legal instrument that established territorial integration at the time of your birth or application, as this is critical for valid citizenship claims under the law. Do not file a generic naturalisation application based on historical residence alone, as the law mandates precise territorial events and notifications to qualify. Ensure you verify the applicable version of citizenship law at the time of your birth or application to avoid misapplication of statutes. Finally, consult official documentation or seek legal advice to confirm the specific event and notification required for your case.",
+    "context": [
+      "Contents. - 1 Part I - Start Here: identify the correct citizenship route - 2 Part II - Constitutional and statutory foundation - 3 Part III - Citizenship by birth - 4 Part IV - Citizenship by descent - 5 Part V - Citizenship by registration - 6 Part VI - Citizenship by naturalisation - 7 Part VII - Citizenship by incorporation of territory - 8 Part VIII - Section 6A and Section 6B special frameworks - 9 Part IX - Application and document workflow - 10 Part X - Police/security verification and government processing - 11 Part XI - Rights, restrictions and OCI - 12 Part XII - Renunciation, termination and deprivation - 13 Part XIII - Delays, rejection and legal remedies - 14 Part XIV - Applicant checklists, glossary and source register",
+      "7. Date-sensitive citizenship law. Do not apply today's Section 3 mechanically to a person born decades earlier. Citizenship by birth has changed through amendments, so the date of birth and the citizenship/immigration status of the parents at the relevant time must be checked against the version of the law then applicable.",
+      "15. Section 5. Section 5 contains multiple categories of persons who may be registered as citizens, subject to the exact statutory conditions. Depending on the clause, the framework can cover categories involving Indian origin, marriage to an Indian citizen, minors, persons whose parents were Indian citizens, former citizens and other specified relationships/statuses.",
+      "24. Applicant takeaway. If your citizenship claim is based on territorial integration, identify the specific territorial event and notification. Do not file a generic naturalisation application merely because your family has historical residence in a territory that was incorporated into India.",
+      "33. What to do when the file is delayed. - l Check whether the application is actually pending or whether a deficiency has been raised. - l Keep evidence of every communication and status update. - l Submit a focused representation if the applicable process provides for one. - l Where appropriate, consider an RTI request for information that can lawfully be disclosed. - l If administrative inaction is substantial and legally actionable, a writ remedy may be considered with legal advice.",
+      "42. Passport surrender is not the same legal question as citizenship. When a person acquires foreign citizenship, the citizenship consequence under Section 9 and the passport consequences under passport law are related but distinct legal questions. Keep separate records for citizenship status, foreign nationality, Indian passport status and surrender/cancellation formalities."
+    ],
+    "sources": [
+      "indian_citizenship_guide"
+    ],
+    "family": "summary",
+    "batch_id": "summary-1",
+    "context_index": 4,
+    "additional_metadata": {
+      "evolutions": [
+        "In-Breadth"
+      ],
+      "synthetic_input_quality": 0.8
+    },
+    "source_file": null
+  },
+  {
+    "input": "Summarize the key historical law amendments that have impacted citizenship by birth determination for individuals born decades ago.",
+    "expected_output": "The key historical law amendments affecting citizenship by birth for individuals born decades ago include Section 3 amendments that require checking the date of birth and parents' citizenship status against the applicable law at the time of birth. The 1950s-1960s amendments expanded citizenship by descent to include Indian-origin individuals and minors, while later revisions under Section 5 introduced categories such as marriage to Indian citizens and former citizens. Section 6A and 6B special frameworks for specific territorial integration events must be verified against historical notifications to avoid misapplication. These changes necessitate a date-sensitive approach to ensure compliance with the law in effect during the individual's birth, as mechanical application of current statutes can lead to incorrect determinations.",
+    "context": [
+      "Contents. - 1 Part I - Start Here: identify the correct citizenship route - 2 Part II - Constitutional and statutory foundation - 3 Part III - Citizenship by birth - 4 Part IV - Citizenship by descent - 5 Part V - Citizenship by registration - 6 Part VI - Citizenship by naturalisation - 7 Part VII - Citizenship by incorporation of territory - 8 Part VIII - Section 6A and Section 6B special frameworks - 9 Part IX - Application and document workflow - 10 Part X - Police/security verification and government processing - 11 Part XI - Rights, restrictions and OCI - 12 Part XII - Renunciation, termination and deprivation - 13 Part XIII - Delays, rejection and legal remedies - 14 Part XIV - Applicant checklists, glossary and source register",
+      "7. Date-sensitive citizenship law. Do not apply today's Section 3 mechanically to a person born decades earlier. Citizenship by birth has changed through amendments, so the date of birth and the citizenship/immigration status of the parents at the relevant time must be checked against the version of the law then applicable.",
+      "15. Section 5. Section 5 contains multiple categories of persons who may be registered as citizens, subject to the exact statutory conditions. Depending on the clause, the framework can cover categories involving Indian origin, marriage to an Indian citizen, minors, persons whose parents were Indian citizens, former citizens and other specified relationships/statuses.",
+      "24. Applicant takeaway. If your citizenship claim is based on territorial integration, identify the specific territorial event and notification. Do not file a generic naturalisation application merely because your family has historical residence in a territory that was incorporated into India.",
+      "33. What to do when the file is delayed. - l Check whether the application is actually pending or whether a deficiency has been raised. - l Keep evidence of every communication and status update. - l Submit a focused representation if the applicable process provides for one. - l Where appropriate, consider an RTI request for information that can lawfully be disclosed. - l If administrative inaction is substantial and legally actionable, a writ remedy may be considered with legal advice.",
+      "42. Passport surrender is not the same legal question as citizenship. When a person acquires foreign citizenship, the citizenship consequence under Section 9 and the passport consequences under passport law are related but distinct legal questions. Keep separate records for citizenship status, foreign nationality, Indian passport status and surrender/cancellation formalities."
+    ],
+    "sources": [
+      "indian_citizenship_guide"
+    ],
+    "family": "summary",
+    "batch_id": "summary-1",
+    "context_index": 4,
+    "additional_metadata": {
+      "evolutions": [
+        "In-Breadth"
+      ],
+      "synthetic_input_quality": 0.8
+    },
+    "source_file": null
+  },
+  {
+    "input": "How can specific territorial integration events and statutory conditions under Section 5 of the Citizenship Act determine eligibility for citizenship registration, including Indian origin, marriage to Indian citizens, minors, and other specified relationships?",
+    "expected_output": "Section 5 of the Citizenship Act outlines multiple categories for citizenship registration, including individuals of Indian origin, those married to Indian citizens, minors, and persons whose parents were Indian citizens. Specific territorial integration events, such as historical incorporations into India, must be precisely identified to qualify under territorial integration claims, as generic applications based on family residence alone are not valid. Statutory conditions under Section 5 require exact adherence to the framework, including exceptions for certain categories covered by Section 6B and proviso. Applicants must ensure their claim aligns with the exact legal definitions to avoid rejection, as the Citizenship Act distinguishes between territorial integration and other eligibility pathways. The processing stages emphasize verification of eligibility through document checks and statutory compliance before granting registration or rejection.",
+    "context": [
+      "Eligibility · Application · Documents · Verification · Rights · Loss of Citizenship · Remedies. Plain-language legal reference. Verify the current official text, rules, notifications and case status before relying on this guide for an application or legal proceeding. Version: 28 September 2026",
+      "6. Illegal migrant definition. Section 2(1)(b) defines an illegal migrant in terms of entry without required travel documents/authority or remaining beyond the permitted period. The Citizenship Act then uses that concept in eligibility provisions. The CAA framework creates specific statutory exceptions for the persons covered by its proviso and Section 6B; those exceptions must be applied exactly as written.",
+      "15. Section 5. Section 5 contains multiple categories of persons who may be registered as citizens, subject to the exact statutory conditions. Depending on the clause, the framework can cover categories involving Indian origin, marriage to an Indian citizen, minors, persons whose parents were Indian citizens, former citizens and other specified relationships/statuses.",
+      "24. Applicant takeaway. If your citizenship claim is based on territorial integration, identify the specific territorial event and notification. Do not file a generic naturalisation application merely because your family has historical residence in a territory that was incorporated into India.",
+      "32. Possible processing stages. - 1 Submission and acknowledgement. - 2 Initial scrutiny for completeness. - 3 Document verification. - 4 Police/security or other inquiry where applicable. - 5 Clarification or deficiency request. - 6 Assessment of statutory eligibility and suitability. - 7 Oath of allegiance where required. - 8 Grant of registration/naturalisation certificate, or rejection/other decision.",
+      "42. Passport surrender is not the same legal question as citizenship. When a person acquires foreign citizenship, the citizenship consequence under Section 9 and the passport consequences under passport law are related but distinct legal questions. Keep separate records for citizenship status, foreign nationality, Indian passport status and surrender/cancellation formalities."
+    ],
+    "sources": [
+      "indian_citizenship_guide"
+    ],
+    "family": "summary",
+    "batch_id": "summary-1",
+    "context_index": 5,
+    "additional_metadata": {
+      "evolutions": [
+        "Concretizing"
+      ],
+      "synthetic_input_quality": 0.7
+    },
+    "source_file": null
+  },
+  {
+    "input": "How can I analyze the territorial integration event and specific notification for citizenship claims based on historical residence to get a high-level overview?",
+    "expected_output": "To analyze the territorial integration event and specific notification for citizenship claims based on historical residence, focus on identifying the relevant territorial event (e.g., annexation, treaty) and the official notification issued by the Indian government that incorporated the territory into India. The Citizenship Act requires precise alignment with statutory conditions, such as the exact territorial integration date and notification, rather than generic claims based on family history. Ensure you reference the correct version of the Citizenship Act (e.g., 28 September 2026) and avoid filing applications without verifiable documentation for the territorial event. The process must follow the CAA framework’s statutory exceptions and eligibility provisions to ensure compliance. For accurate results, consult the official government portal or legal reference for the current rules before proceeding with any application.",
+    "context": [
+      "Eligibility · Application · Documents · Verification · Rights · Loss of Citizenship · Remedies. Plain-language legal reference. Verify the current official text, rules, notifications and case status before relying on this guide for an application or legal proceeding. Version: 28 September 2026",
+      "6. Illegal migrant definition. Section 2(1)(b) defines an illegal migrant in terms of entry without required travel documents/authority or remaining beyond the permitted period. The Citizenship Act then uses that concept in eligibility provisions. The CAA framework creates specific statutory exceptions for the persons covered by its proviso and Section 6B; those exceptions must be applied exactly as written.",
+      "15. Section 5. Section 5 contains multiple categories of persons who may be registered as citizens, subject to the exact statutory conditions. Depending on the clause, the framework can cover categories involving Indian origin, marriage to an Indian citizen, minors, persons whose parents were Indian citizens, former citizens and other specified relationships/statuses.",
+      "24. Applicant takeaway. If your citizenship claim is based on territorial integration, identify the specific territorial event and notification. Do not file a generic naturalisation application merely because your family has historical residence in a territory that was incorporated into India.",
+      "32. Possible processing stages. - 1 Submission and acknowledgement. - 2 Initial scrutiny for completeness. - 3 Document verification. - 4 Police/security or other inquiry where applicable. - 5 Clarification or deficiency request. - 6 Assessment of statutory eligibility and suitability. - 7 Oath of allegiance where required. - 8 Grant of registration/naturalisation certificate, or rejection/other decision.",
+      "42. Passport surrender is not the same legal question as citizenship. When a person acquires foreign citizenship, the citizenship consequence under Section 9 and the passport consequences under passport law are related but distinct legal questions. Keep separate records for citizenship status, foreign nationality, Indian passport status and surrender/cancellation formalities."
+    ],
+    "sources": [
+      "indian_citizenship_guide"
+    ],
+    "family": "summary",
+    "batch_id": "summary-1",
+    "context_index": 5,
+    "additional_metadata": {
+      "evolutions": [
+        "In-Breadth"
+      ],
+      "synthetic_input_quality": 0.7
+    },
+    "source_file": null
+  },
+  {
+    "input": "How can I get a high-level overview of Indian citizenship eligibility criteria and application processes across different categories, and what are the key processing stages involved in naturalisation and registration?",
+    "expected_output": "Indian citizenship eligibility criteria vary by category, with the Citizenship Act and Rules prescribing distinct requirements. For registration, the Citizenship Rules specify a seven-year ordinary residence for certain applications, while other categories (e.g., foreign citizens) may require only twelve months. Naturalisation involves key processing stages: submission, initial scrutiny, document verification, security checks, clarification requests, statutory eligibility assessment, oath of allegiance, and final certification. The Allahabad High Court case Nageshwar Mishra v. Union of India (2020) emphasizes adherence to category-specific rules and highlights the importance of verifying current legal provisions before applying.",
+    "context": [
+      "Indian Citizenship Case Law: Applicant-Focused Precedent Handbook. Birth · Descent · Registration · Naturalisation · Foreign Citizenship · OCI · Delays · Deprivation · Special Frameworks Plain-language legal reference. Verify the current official text, rules, notifications and case status before relying on this guide for an application or legal proceeding. Version: 28 September 2026",
+      "Primary source. [https://indiankanoon.org/doc/149875120/](https://indiankanoon.org/doc/149875120/)",
+      "Case 8.1 - Nageshwar Mishra v. Union of India. Court: Allahabad High Court Date: 2 September 2020 Citation / Case No.: 2020 High Court decision Key provisions: Citizenship Act Section 10; Constitution Articles 5-11",
+      "Eligibility · Application · Documents · Verification · Rights · Loss of Citizenship · Remedies. Plain-language legal reference. Verify the current official text, rules, notifications and case status before relying on this guide for an application or legal proceeding. Version: 28 September 2026",
+      "16. Residence is category-specific. Do not copy a seven-year residence rule into every registration case. The Citizenship Rules prescribe different requirements for different Section 5 categories. For example, the Rules contain a seven-year ordinary-residence requirement for certain applications, while other categories use a twelve-month period. The exact form and rule must be matched to the Section 5 clause.",
+      "32. Possible processing stages. - 1 Submission and acknowledgement. - 2 Initial scrutiny for completeness. - 3 Document verification. - 4 Police/security or other inquiry where applicable. - 5 Clarification or deficiency request. - 6 Assessment of statutory eligibility and suitability. - 7 Oath of allegiance where required. - 8 Grant of registration/naturalisation certificate, or rejection/other decision."
+    ],
+    "sources": [
+      "cases",
+      "indian_citizenship_guide"
+    ],
+    "family": "summary",
+    "batch_id": "summary-2",
+    "context_index": 6,
+    "additional_metadata": {
+      "evolutions": [
+        "Concretizing"
+      ],
+      "synthetic_input_quality": 0.8
+    },
+    "source_file": null
+  },
+  {
+    "input": "What are the seven key procedural stages in Indian citizenship registration as per case law?",
+    "expected_output": "The seven key procedural stages in Indian citizenship registration, as outlined in the context, are: 1) Submission and acknowledgement, 2) Initial scrutiny for completeness, 3) Document verification, 4) Police/security or other inquiry, 5) Clarification or deficiency request, 6) Assessment of statutory eligibility and suitability, and 7) Oath of allegiance where required, followed by grant of registration/naturalisation certificate or rejection. These stages are derived from the case law reference (Case 8.1 - Nageshwar Mishra v. Union of India) and align with the Citizenship Rules, which specify category-specific requirements for different registration paths.",
+    "context": [
+      "Indian Citizenship Case Law: Applicant-Focused Precedent Handbook. Birth · Descent · Registration · Naturalisation · Foreign Citizenship · OCI · Delays · Deprivation · Special Frameworks Plain-language legal reference. Verify the current official text, rules, notifications and case status before relying on this guide for an application or legal proceeding. Version: 28 September 2026",
+      "Primary source. [https://indiankanoon.org/doc/149875120/](https://indiankanoon.org/doc/149875120/)",
+      "Case 8.1 - Nageshwar Mishra v. Union of India. Court: Allahabad High Court Date: 2 September 2020 Citation / Case No.: 2020 High Court decision Key provisions: Citizenship Act Section 10; Constitution Articles 5-11",
+      "Eligibility · Application · Documents · Verification · Rights · Loss of Citizenship · Remedies. Plain-language legal reference. Verify the current official text, rules, notifications and case status before relying on this guide for an application or legal proceeding. Version: 28 September 2026",
+      "16. Residence is category-specific. Do not copy a seven-year residence rule into every registration case. The Citizenship Rules prescribe different requirements for different Section 5 categories. For example, the Rules contain a seven-year ordinary-residence requirement for certain applications, while other categories use a twelve-month period. The exact form and rule must be matched to the Section 5 clause.",
+      "32. Possible processing stages. - 1 Submission and acknowledgement. - 2 Initial scrutiny for completeness. - 3 Document verification. - 4 Police/security or other inquiry where applicable. - 5 Clarification or deficiency request. - 6 Assessment of statutory eligibility and suitability. - 7 Oath of allegiance where required. - 8 Grant of registration/naturalisation certificate, or rejection/other decision."
+    ],
+    "sources": [
+      "cases",
+      "indian_citizenship_guide"
+    ],
+    "family": "summary",
+    "batch_id": "summary-2",
+    "context_index": 6,
+    "additional_metadata": {
+      "evolutions": [
+        "In-Breadth"
+      ],
+      "synthetic_input_quality": 0.7
+    },
+    "source_file": null
+  },
+  {
+    "input": "How do the Indian Citizenship Act registration categories differ, and what eligibility criteria apply to each category?",
+    "expected_output": "The Indian Citizenship Act registration categories differ based on specific statutory conditions outlined in Section 5, covering categories such as Indian origin, marriage to an Indian citizen, minors, persons whose parents were Indian citizens, former citizens, and other specified relationships. Eligibility criteria for each category require adherence to the exact conditions defined in the Citizenship Act, including documentation and verification processes. For example, individuals born to Indian citizens or married to Indian citizens may qualify under certain provisions, while minors and former citizens must meet specific thresholds. Delays in processing applications can occur due to deficiencies or administrative inaction, necessitating checks on application status, evidence collection, and potential legal remedies if unresolved. The Supreme Court and Allahabad High Court have addressed related cases, emphasizing constitutional provisions (Articles 8-11) and Citizenship Act sections (e.g., Section 10) to clarify eligibility and remedies.",
+    "context": [
+      "Indian Citizenship Case Law: Applicant-Focused Precedent Handbook. Birth · Descent · Registration · Naturalisation · Foreign Citizenship · OCI · Delays · Deprivation · Special Frameworks Plain-language legal reference. Verify the current official text, rules, notifications and case status before relying on this guide for an application or legal proceeding. Version: 28 September 2026",
+      "Case 4.1 - Union of India v. Pranav Srinivasan. Court: Supreme Court of India Date: 18 October 2024 Citation / Case No.: 2024 INSC 792; Civil Appeal No. 5932 of 2023 with W.P.(C) No. 123 of 2024 Key provisions: Constitution Articles 8-11; Citizenship Act Sections 5, 8 and 9",
+      "Case 8.1 - Nageshwar Mishra v. Union of India. Court: Allahabad High Court Date: 2 September 2020 Citation / Case No.: 2020 High Court decision Key provisions: Citizenship Act Section 10; Constitution Articles 5-11",
+      "Eligibility · Application · Documents · Verification · Rights · Loss of Citizenship · Remedies. Plain-language legal reference. Verify the current official text, rules, notifications and case status before relying on this guide for an application or legal proceeding. Version: 28 September 2026",
+      "15. Section 5. Section 5 contains multiple categories of persons who may be registered as citizens, subject to the exact statutory conditions. Depending on the clause, the framework can cover categories involving Indian origin, marriage to an Indian citizen, minors, persons whose parents were Indian citizens, former citizens and other specified relationships/statuses.",
+      "33. What to do when the file is delayed. - l Check whether the application is actually pending or whether a deficiency has been raised. - l Keep evidence of every communication and status update. - l Submit a focused representation if the applicable process provides for one. - l Where appropriate, consider an RTI request for information that can lawfully be disclosed. - l If administrative inaction is substantial and legally actionable, a writ remedy may be considered with legal advice."
+    ],
+    "sources": [
+      "cases",
+      "indian_citizenship_guide"
+    ],
+    "family": "summary",
+    "batch_id": "summary-2",
+    "context_index": 7,
+    "additional_metadata": {
+      "evolutions": [
+        "Comparative"
+      ],
+      "synthetic_input_quality": 0.9
+    },
+    "source_file": null
+  },
+  {
+    "input": "How can delays in Indian citizenship applications be addressed through verification, documentation, and legal remedies?",
+    "expected_output": "Delays in Indian citizenship applications can be addressed through verification, documentation, and legal remedies as outlined in the context. First, applicants should check whether their application is genuinely pending or if a deficiency has been raised, and maintain evidence of all communications and status updates. If administrative inaction is substantial and legally actionable, remedies such as RTI requests for accessible information or writ petitions may be pursued with legal counsel. The context emphasizes verifying current official texts, rules, and case statuses before relying on this guide for applications or legal proceedings to ensure accuracy and compliance.",
+    "context": [
+      "Indian Citizenship Case Law: Applicant-Focused Precedent Handbook. Birth · Descent · Registration · Naturalisation · Foreign Citizenship · OCI · Delays · Deprivation · Special Frameworks Plain-language legal reference. Verify the current official text, rules, notifications and case status before relying on this guide for an application or legal proceeding. Version: 28 September 2026",
+      "Case 4.1 - Union of India v. Pranav Srinivasan. Court: Supreme Court of India Date: 18 October 2024 Citation / Case No.: 2024 INSC 792; Civil Appeal No. 5932 of 2023 with W.P.(C) No. 123 of 2024 Key provisions: Constitution Articles 8-11; Citizenship Act Sections 5, 8 and 9",
+      "Case 8.1 - Nageshwar Mishra v. Union of India. Court: Allahabad High Court Date: 2 September 2020 Citation / Case No.: 2020 High Court decision Key provisions: Citizenship Act Section 10; Constitution Articles 5-11",
+      "Eligibility · Application · Documents · Verification · Rights · Loss of Citizenship · Remedies. Plain-language legal reference. Verify the current official text, rules, notifications and case status before relying on this guide for an application or legal proceeding. Version: 28 September 2026",
+      "15. Section 5. Section 5 contains multiple categories of persons who may be registered as citizens, subject to the exact statutory conditions. Depending on the clause, the framework can cover categories involving Indian origin, marriage to an Indian citizen, minors, persons whose parents were Indian citizens, former citizens and other specified relationships/statuses.",
+      "33. What to do when the file is delayed. - l Check whether the application is actually pending or whether a deficiency has been raised. - l Keep evidence of every communication and status update. - l Submit a focused representation if the applicable process provides for one. - l Where appropriate, consider an RTI request for information that can lawfully be disclosed. - l If administrative inaction is substantial and legally actionable, a writ remedy may be considered with legal advice."
+    ],
+    "sources": [
+      "cases",
+      "indian_citizenship_guide"
+    ],
+    "family": "summary",
+    "batch_id": "summary-2",
+    "context_index": 7,
+    "additional_metadata": {
+      "evolutions": [
+        "Comparative"
+      ],
+      "synthetic_input_quality": 0.7
+    },
+    "source_file": null
+  },
+  {
+    "input": "How does the handbook categorize citizenship routes through its structured sections on birth, descent, registration, naturalisation, OCI, and administrative procedures?",
+    "expected_output": "The handbook categorizes citizenship routes into distinct sections: Part III covers citizenship by birth, Part IV addresses citizenship by descent, Part V details citizenship by registration (including Indian origin, marriage to Indian citizens, minors, and former citizens), Part VI explains citizenship by naturalisation, Part VII discusses citizenship by incorporation of territory, Part VIII outlines Section 6A and 6B frameworks, and Part IX covers administrative procedures like file delays, rejections, and remedies. The handbook also integrates procedural workflows, document requirements, and legal remedies for administrative delays, ensuring applicants understand their rights and obligations within the statutory framework.",
+    "context": [
+      "Contents. - 1 Part I - How to use this case-law handbook - 2 Part II - Standard case-reading template - 3 Part III - Cases on citizenship by birth - 4 Part IV - Cases on citizenship by descent / foreign citizenship - 5 Part V - Cases on registration, residence and naturalisation - 6 Part VI - Cases on OCI - 7 Part VII - Cases on administrative delay, rejection and remedies - 8 Part VIII - Deprivation and citizenship-status disputes - 9 Part IX - CAA / Section 6A / Section 6B litigation - 10 Part X - Master case table and statutory index",
+      "Primary source. [https://indiankanoon.org/doc/168654521/](https://indiankanoon.org/doc/168654521/)",
+      "Case 8.1 - Nageshwar Mishra v. Union of India. Court: Allahabad High Court Date: 2 September 2020 Citation / Case No.: 2020 High Court decision Key provisions: Citizenship Act Section 10; Constitution Articles 5-11",
+      "Contents. - 1 Part I - Start Here: identify the correct citizenship route - 2 Part II - Constitutional and statutory foundation - 3 Part III - Citizenship by birth - 4 Part IV - Citizenship by descent - 5 Part V - Citizenship by registration - 6 Part VI - Citizenship by naturalisation - 7 Part VII - Citizenship by incorporation of territory - 8 Part VIII - Section 6A and Section 6B special frameworks - 9 Part IX - Application and document workflow - 10 Part X - Police/security verification and government processing - 11 Part XI - Rights, restrictions and OCI - 12 Part XII - Renunciation, termination and deprivation - 13 Part XIII - Delays, rejection and legal remedies - 14 Part XIV - Applicant checklists, glossary and source register",
+      "15. Section 5. Section 5 contains multiple categories of persons who may be registered as citizens, subject to the exact statutory conditions. Depending on the clause, the framework can cover categories involving Indian origin, marriage to an Indian citizen, minors, persons whose parents were Indian citizens, former citizens and other specified relationships/statuses.",
+      "33. What to do when the file is delayed. - l Check whether the application is actually pending or whether a deficiency has been raised. - l Keep evidence of every communication and status update. - l Submit a focused representation if the applicable process provides for one. - l Where appropriate, consider an RTI request for information that can lawfully be disclosed. - l If administrative inaction is substantial and legally actionable, a writ remedy may be considered with legal advice."
+    ],
+    "sources": [
+      "cases",
+      "indian_citizenship_guide"
+    ],
+    "family": "summary",
+    "batch_id": "summary-2",
+    "context_index": 8,
+    "additional_metadata": {
+      "evolutions": [
+        "Concretizing"
+      ],
+      "synthetic_input_quality": 0.8
+    },
+    "source_file": null
+  }
+]

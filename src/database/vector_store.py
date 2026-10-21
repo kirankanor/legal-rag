@@ -1,5 +1,6 @@
 import logging
 import time
+from collections.abc import Sequence
 from pathlib import Path
 from typing import Any, List, Tuple, Union
 
@@ -15,7 +16,6 @@ class VectorStore:
 
     def __init__(self) -> None:
         self.settings = settings
-        self.collection_name = self.settings.collection_name
         self.embedding_model = self.settings.embedding_model
         qdrant_path: Path | None = None
 
@@ -67,15 +67,18 @@ class VectorStore:
         )
         return result
 
-    def create_tables(self) -> None:
-        """Create the Qdrant collection if it does not already exist."""
-        if self.vec_client.collection_exists(self.collection_name):
-            collection = self.vec_client.get_collection(self.collection_name)
+    def ensure_collection(self, collection_name: str) -> None:
+        """Create a Qdrant collection if needed and verify its vector dimensions."""
+        if not collection_name.strip():
+            raise ValueError("Collection name cannot be empty.")
+
+        if self.vec_client.collection_exists(collection_name):
+            collection = self.vec_client.get_collection(collection_name)
             vectors = collection.config.params.vectors
             current_size = getattr(vectors, "size", None)
             if current_size != self.embedding_dimensions:
                 raise ValueError(
-                    f"Collection '{self.collection_name}' has vector size "
+                    f"Collection '{collection_name}' has vector size "
                     f"{current_size}; the configured embedding model produces "
                     f"vectors of size {self.embedding_dimensions}. The collection "
                     "was not changed."
@@ -83,14 +86,23 @@ class VectorStore:
             return
 
         self.vec_client.create_collection(
-            collection_name=self.collection_name,
+            collection_name=collection_name,
             vectors_config=models.VectorParams(
                 size=self.embedding_dimensions,
                 distance=models.Distance.COSINE,
             ),
         )
 
-    def upsert(self, df: pd.DataFrame) -> None:
+    def create_tables(self, collection_name: str) -> None:
+        """Ensure the named collection exists."""
+        self.ensure_collection(collection_name)
+
+    def upsert(
+        self,
+        df: pd.DataFrame,
+        *,
+        collection_name: str,
+    ) -> None:
         """Insert or update records with columns id, metadata, contents, embedding."""
         required_columns = {"id", "metadata", "contents", "embedding"}
         missing_columns = required_columns.difference(df.columns)
@@ -100,6 +112,9 @@ class VectorStore:
             )
         if df.empty:
             return
+
+        if not collection_name.strip():
+            raise ValueError("Collection name cannot be empty.")
 
         points = []
         for record in df.to_dict(orient="records"):
@@ -127,13 +142,13 @@ class VectorStore:
                 )
             )
 
-        self.create_tables()
+        self.ensure_collection(collection_name)
         self.vec_client.upsert(
-            collection_name=self.collection_name,
+            collection_name=collection_name,
             points=points,
             wait=True,
         )
-        logging.info("Inserted %d records into %s", len(points), self.collection_name)
+        logging.info("Inserted %d records into %s", len(points), collection_name)
 
     @staticmethod
     def _make_metadata_filter(
@@ -167,14 +182,30 @@ class VectorStore:
         limit: int = 5,
         metadata_filter: Union[dict, List[dict]] = None,
         return_dataframe: bool = True,
+        *,
+        collection_name: str | Sequence[str],
     ) -> Union[List[Tuple[Any, ...]], pd.DataFrame]:
-        """Search by semantic similarity, optionally matching metadata fields."""
+        """Search explicitly selected collections and return the best matches."""
         if limit < 1:
             raise ValueError("limit must be greater than zero.")
-        if not self.vec_client.collection_exists(self.collection_name):
+
+        if isinstance(collection_name, str):
+            target_collections = [collection_name]
+        else:
+            target_collections = list(dict.fromkeys(collection_name))
+
+        if not target_collections or any(not name.strip() for name in target_collections):
+            raise ValueError("Provide at least one non-empty collection name.")
+
+        missing_collections = [
+            name
+            for name in target_collections
+            if not self.vec_client.collection_exists(name)
+        ]
+        if missing_collections:
             raise ValueError(
-                f"Qdrant collection '{self.collection_name}' does not exist; "
-                "index documents before querying."
+                "Qdrant collection(s) do not exist: "
+                f"{', '.join(missing_collections)}. Index documents before querying."
             )
 
         query_embedding = self.get_embedding(query_text)
@@ -183,26 +214,37 @@ class VectorStore:
         if metadata_filter is not None:
             search_args["query_filter"] = self._make_metadata_filter(metadata_filter)
 
-        response = self.vec_client.query_points(
-            collection_name=self.collection_name,
-            query=query_embedding,
-            limit=limit,
-            with_payload=True,
-            with_vectors=True,
-            **search_args,
-        )
-        logging.info("Vector search completed in %.3f seconds", time.time() - start_time)
-
-        results = [
-            (
-                point.id,
-                (point.payload or {}).get("metadata", {}),
-                (point.payload or {}).get("content"),
-                point.vector,
-                1 - point.score,
+        results: List[Tuple[Any, ...]] = []
+        for target_collection in target_collections:
+            response = self.vec_client.query_points(
+                collection_name=target_collection,
+                query=query_embedding,
+                limit=limit,
+                with_payload=True,
+                with_vectors=True,
+                **search_args,
             )
-            for point in response.points
-        ]
+            results.extend(
+                (
+                    point.id,
+                    {
+                        **(point.payload or {}).get("metadata", {}),
+                        "collection_name": target_collection,
+                    },
+                    (point.payload or {}).get("content"),
+                    point.vector,
+                    1 - point.score,
+                )
+                for point in response.points
+            )
+
+        results.sort(key=lambda result: result[4])
+        results = results[:limit]
+        logging.info(
+            "Vector search across %d collection(s) completed in %.3f seconds",
+            len(target_collections),
+            time.time() - start_time,
+        )
         return self._create_dataframe_from_results(results) if return_dataframe else results
 
     def _create_dataframe_from_results(
@@ -226,14 +268,18 @@ class VectorStore:
         ids: List[str] = None,
         metadata_filter: Union[dict, List[dict]] = None,
         delete_all: bool = False,
+        *,
+        collection_name: str,
     ) -> None:
         """Delete by point IDs, metadata filter, or all points in the collection."""
         if sum(bool(value) for value in (ids, metadata_filter, delete_all)) != 1:
             raise ValueError(
                 "Provide exactly one of: ids, metadata_filter, or delete_all"
             )
-        if not self.vec_client.collection_exists(self.collection_name):
-            raise ValueError(f"Qdrant collection '{self.collection_name}' does not exist.")
+        if not collection_name.strip():
+            raise ValueError("Collection name cannot be empty.")
+        if not self.vec_client.collection_exists(collection_name):
+            raise ValueError(f"Qdrant collection '{collection_name}' does not exist.")
 
         if delete_all:
             selector = models.FilterSelector(filter=models.Filter())
@@ -245,7 +291,7 @@ class VectorStore:
             )
 
         self.vec_client.delete(
-            collection_name=self.collection_name,
+            collection_name=collection_name,
             points_selector=selector,
             wait=True,
         )

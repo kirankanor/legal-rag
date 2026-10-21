@@ -8,8 +8,10 @@ from src.ingestion.chunkers import ChunkRecord
 def embed_and_store(
     chunks: list[ChunkRecord],
     vector_store: VectorStore,
+    *,
+    collection_name: str,
 ) -> None:
-    """Embed Docling chunks and persist them through the shared vector store."""
+    """Embed Docling chunks and persist them in the selected collection."""
     if not chunks:
         raise ValueError("No text chunks were created; check the source document.")
 
@@ -37,4 +39,7 @@ def embed_and_store(
         for chunk, embedding in zip(chunks, embeddings)
     ]
 
-    vector_store.upsert(pd.DataFrame.from_records(records))
+    vector_store.upsert(
+        pd.DataFrame.from_records(records),
+        collection_name=collection_name,
+    )

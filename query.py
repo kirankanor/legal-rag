@@ -1,17 +1,13 @@
-import os
 from pathlib import Path
 
 from qdrant_client import QdrantClient
 from sentence_transformers import SentenceTransformer
-from langchain_groq import ChatGroq
-from dotenv import load_dotenv
 
-# ================= Config ===============
-load_dotenv(Path(__file__).resolve().parent / ".env")
+from src.query.generate import generate_answer
+
 
 embedding_model: str = "all-MiniLM-L6-v2"
 qdrant_path = str(Path(__file__).resolve().parent / "data" / "qdrant")
-collection_name: str = "legal_docs"
 
 
 def retrieve(
@@ -19,18 +15,34 @@ def retrieve(
     client: QdrantClient,
     embedder: SentenceTransformer,
     top_k: int = 3,
-)-> list[dict]:
+    *,
+    collection_name: str | list[str],
+) -> list[dict]:
     """Embed the query and return the top k most relevant chunks."""
     query_vector = embedder.encode(query)
 
-    hits = client.query_points(
-        collection_name=collection_name,
-        query=query_vector,
-        limit=top_k,
-        with_payload=True,
-    )
+    collections = [collection_name] if isinstance(collection_name, str) else collection_name
+    if not collections or any(not name.strip() for name in collections):
+        raise ValueError("Provide at least one non-empty collection name.")
 
-    return [{**hit.payload, "score": round(hit.score, 2)} for hit in hits.points]
+    results = []
+    for target_collection in dict.fromkeys(collections):
+        hits = client.query_points(
+            collection_name=target_collection,
+            query=query_vector,
+            limit=top_k,
+            with_payload=True,
+        )
+        results.extend(
+            {
+                **(hit.payload or {}),
+                "score": round(hit.score, 2),
+                "collection_name": target_collection,
+            }
+            for hit in hits.points
+        )
+
+    return sorted(results, key=lambda result: result["score"], reverse=True)[:top_k]
 
 
 def build_context(retrieved_chunks: list[dict]) -> str:
@@ -41,41 +53,17 @@ def build_context(retrieved_chunks: list[dict]) -> str:
     return "\n\n---\n\n".join(parts)
 
 
-def generate_answer(context: str, query: str) -> str:
-    api_key = os.getenv("GROQ_API_KEY")
-    model = os.getenv("GROQ_MODEL")
-    if not api_key:
-        raise ValueError("GROQ_API_KEY is not set.")
-    if not model:
-        raise ValueError("GROQ_MODEL is not set.")
-
-    system_prompt = (
-        "You are a legal information assistant specializing in Indian citizenship law.\n"
-        "Answer using ONLY the provided context; do not make up facts or legal conclusions.\n"
-        "If the context does not contain enough information, say so clearly.\n"
-        "Cite the relevant case, section, or source when the context identifies one."
-    )
-    user_message = f"Context:\n{context}\n\nQuestion: {query}"
-
-    llm = ChatGroq(
-        model=model,
-        api_key=api_key,
-        temperature=0.2,
-    )
-    messages = [
-        ("system", system_prompt),
-        ("user", user_message),
-    ]
-    response = llm.invoke(messages)
-    return response.content
-
-
 def main() -> None:
     query = "what is the case selection principle?"
     client = QdrantClient(path=qdrant_path)
     try:
         embedder = SentenceTransformer(embedding_model)
-        retrieved_chunks = retrieve(client=client, embedder=embedder, query=query)
+        retrieved_chunks = retrieve(
+            client=client,
+            embedder=embedder,
+            query=query,
+            collection_name=["legal_cases", "citizenship_guides"],
+        )
         context = build_context(retrieved_chunks)
         answer = generate_answer(context=context, query=query)
         print(answer)
