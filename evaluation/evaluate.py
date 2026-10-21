@@ -33,6 +33,7 @@ def _fingerprint(
         "input": row.get("input"),
         "expected_output": row.get("expected_output"),
         "relevant_contexts": row.get("relevant_contexts"),
+        "context": row.get("context"),
         "generated_answer": answer_row.get("generated_answer"),
         "retrieved_contexts": answer_row.get("retrieved_contexts"),
         "top_k": answer_row.get("top_k"),
@@ -156,11 +157,14 @@ def evaluate(
             metric.measure(test_case)
             metric_results[name] = _metric_result(metric)
 
-        relevant_contexts = golden.get("relevant_contexts")
+        relevant_contexts = golden.get(
+            "relevant_contexts",
+            golden.get("context"),
+        )
         recall_value = None
         if isinstance(relevant_contexts, list) and all(
             isinstance(context, str) for context in relevant_contexts
-        ):
+        ) and relevant_contexts:
             recall_value = recall_at_k(relevant_contexts, retrieved_contexts)
 
         saved_results[index] = {
@@ -199,7 +203,7 @@ def evaluate(
     else:
         print(
             "Retrieval Recall@k: not calculated; add a human-reviewed "
-            "'relevant_contexts' list to golden rows."
+            "'relevant_contexts' or 'context' list to golden rows."
         )
 
     metric_names = {

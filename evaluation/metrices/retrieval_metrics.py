@@ -1,8 +1,10 @@
 """Standalone retrieval metrics that use human-labeled relevant passages."""
 
+import re
+
 
 def _normalized(text: str) -> str:
-    return " ".join(text.casefold().split())
+    return " ".join(re.sub(r"[^\w]+", " ", text.casefold()).split())
 
 
 def recall_at_k(relevant_contexts: list[str], retrieved_contexts: list[str]) -> float:

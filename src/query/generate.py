@@ -1,4 +1,15 @@
-"""Generate context-grounded answers for legal RAG queries."""
+"""Generate context-grounded answers for legal RAG queries.
+
+I updated it: now the normal command prints the overall and grouped metric summaries in the terminal, and still saves the full report—including scores for each question—to report.md.
+
+Run it again:
+uv run python evaluation\report_results.py
+
+To print the full per-question table in the terminal too:
+uv run python evaluation\report_results.py --show-all
+
+
+"""
 
 import json
 import logging

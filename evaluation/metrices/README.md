@@ -38,6 +38,23 @@ For every test question, first label the source passage(s) that are relevant.
 Then retrieve the top `k` chunks and compare them with those labels. Without
 human-identified relevant passages, Recall@k cannot be measured reliably.
 
+Run retrieval-only evaluation to search each golden question and save the
+retrieved chunks with its Recall@k:
+
+```powershell
+uv run python evaluation\evaluate_retrieval.py
+```
+
+The script writes `evaluation/results/retrieval_results.json`. It uses
+`relevant_contexts` when present on a golden row, otherwise it uses that row's
+`context` as the relevant passage labels. Review those `context` values before
+interpreting the score as a reliable retrieval metric. Use `--top-k` to choose
+the number of retrieved chunks or `--limit` to run only the first questions:
+
+```powershell
+uv run python evaluation\evaluate_retrieval.py --top-k 5 --limit 3
+```
+
 ## Run the evaluator
 
 Generate answers from the golden questions first. The answer generator uses
@@ -98,10 +115,22 @@ Faithfulness, Answer Relevancy, Answer Correctness, and Legal Citation
 Correctness, as well as the retrieved chunks and generated answer. The command
 also prints the mean score for each metric.
 
-Recall@k is calculated only when a golden row contains a human-reviewed
-`relevant_contexts` list of passage strings. The current generated `goldens.json`
-does not include those labels, so the evaluator will report Recall@k as
-unavailable until they are added. Do not treat generated answers as trusted
+Both the answer evaluator and retrieval-only evaluator calculate
+`retrieval_recall_at_k` from `relevant_contexts` when present, otherwise from
+the golden row's existing `context` field. Review the passage labels before
+treating Recall@k as reliable. Do not treat generated answers as trusted
 references until a human has checked their legal accuracy.
+
+## Generate a results report
+
+After running the evaluators, create a Markdown report with per-question metric
+scores, overall averages, and summaries grouped by family and provider:
+
+```powershell
+uv run python evaluation\report_results.py
+```
+
+The report is saved to `evaluation/results/report.md`. Choose other grouping
+fields with `--group-by`, for example `--group-by family provider top_k`.
 
 Use the scores to find cases for review, not as a substitute for legal review.
